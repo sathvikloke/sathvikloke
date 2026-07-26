@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" role="img" aria-label="Sathvik Loke — I teach machines to read the body. IMSA 2028, bio and machine learning.">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#c77dff"/>
+      <stop offset="100%" stop-color="#ff79c6"/>
+    </linearGradient>
+
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#c77dff" stop-opacity="0"/>
+      <stop offset="45%"  stop-color="#c77dff" stop-opacity=".85"/>
+      <stop offset="100%" stop-color="#ff79c6" stop-opacity="0"/>
+    </linearGradient>
+
+    <radialGradient id="glow" cx="78%" cy="30%" r="60%">
+      <stop offset="0%"   stop-color="#c77dff" stop-opacity=".22"/>
+      <stop offset="55%"  stop-color="#ff79c6" stop-opacity=".07"/>
+      <stop offset="100%" stop-color="#08070d" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0v44" fill="none" stroke="#c77dff" stroke-opacity=".10" stroke-width="1"/>
+    </pattern>
+
+    <mask id="gridfade">
+      <rect width="1200" height="380" fill="url(#gridmask)"/>
+    </mask>
+    <linearGradient id="gridmask" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"  stop-color="#fff" stop-opacity=".85"/>
+      <stop offset="70%" stop-color="#fff" stop-opacity=".12"/>
+      <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- ground -->
+  <rect width="1200" height="380" fill="#08070d"/>
+  <rect width="1200" height="380" fill="url(#grid)" mask="url(#gridfade)"/>
+  <rect width="1200" height="380" fill="url(#glow)"/>
+
+  <!-- status line -->
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" letter-spacing="3.5">
+    <circle cx="60" cy="52" r="4" fill="#c77dff">
+      <animate attributeName="opacity" values="1;.25;1" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="76" y="57" fill="#c77dff">SATHVIK LOKE</text>
+    <text x="1140" y="57" fill="#857da0" text-anchor="end">IMSA &#8217;28 &#183; NAPERVILLE, IL</text>
+  </g>
+
+  <!-- headline -->
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+    <text x="60" y="176" fill="#ece9f7" font-size="72" font-weight="200" letter-spacing="-2.6">I teach machines</text>
+    <text x="60" y="248" font-size="72" font-weight="600" letter-spacing="-2.6" fill="url(#accent)">to read the body.</text>
+  </g>
+
+  <!-- subline -->
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12.5" letter-spacing="2.6" fill="#9b95b3">
+    <text x="62" y="292">BIO &#215; MACHINE LEARNING</text>
+    <text x="330" y="292" fill="#4a4458">//</text>
+    <text x="360" y="292">FIRST AUTHOR &#215; 3</text>
+    <text x="560" y="292" fill="#4a4458">//</text>
+    <text x="590" y="292">CO&#8209;FOUNDER, LANDER</text>
+  </g>
+
+  <!-- signal trace -->
+  <g transform="translate(0,332)">
+    <path d="M60 0 H1140" stroke="#241f33" stroke-width="1"/>
+    <path d="M60 0 H300 l18 -13 l14 26 l16 -30 l13 17 H620 l22 -22 l15 40 l18 -46 l14 28 H1140"
+          fill="none" stroke="url(#fade)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round">
+      <animate attributeName="stroke-opacity" values=".55;1;.55" dur="3.6s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- double helix -->
+  <g transform="translate(1010,196)" opacity=".92">
+    <g stroke-linecap="round" fill="none">
+      <path d="M-70 -104 C -22 -78, -22 -26, -70 0 C -22 26, -22 78, -70 104"
+            stroke="#c77dff" stroke-width="2.6" stroke-opacity=".95"/>
+      <path d="M70 -104 C 22 -78, 22 -26, 70 0 C 22 26, 22 78, 70 104"
+            stroke="#ff79c6" stroke-width="2.6" stroke-opacity=".95"/>
+      <g stroke="#c77dff" stroke-width="1.6" stroke-opacity=".45">
+        <path d="M-58 -84 H58"/><path d="M-30 -56 H30"/><path d="M-14 -28 H14"/>
+        <path d="M-14  28 H14"/><path d="M-30  56 H30"/><path d="M-58  84 H58"/>
+      </g>
+    </g>
+    <g fill="#ece9f7">
+      <circle cx="-70" cy="-104" r="3.4"/><circle cx="70" cy="-104" r="3.4"/>
+      <circle cx="-70" cy="104"  r="3.4"/><circle cx="70" cy="104"  r="3.4"/>
+      <circle cx="-70" cy="0" r="3.4" fill="#c77dff"/><circle cx="70" cy="0" r="3.4" fill="#ff79c6"/>
+    </g>
+    <animateTransform attributeName="transform" type="translate"
+      values="1010,196; 1010,190; 1010,196" dur="6s" repeatCount="indefinite"/>
+  </g>
+</svg>
