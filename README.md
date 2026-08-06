@@ -125,6 +125,29 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 </div>
 
 <!-- NOW-PLAYING:START -->
+
+---
+
+<div align="center">
+
+### `♫ last played`
+
+**POP** — Lil Uzi Vert
+
+</div>
+
+| recent | artist |
+|---|---|
+| `POP` | Lil Uzi Vert |
+| `Go Down (feat. TisaKorean)` | Don Toliver |
+| `Hooked` | buoa |
+| `Go Down (feat. TisaKorean)` | Don Toliver |
+| `THE NIGHT SHOW` | Viktorr |
+
+<sub>Top artists this month — `Ken Carson` · `Don Toliver` · `Playboi Carti` · `Travis Scott` · `Yeat`</sub>
+
+<sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
+
 <!-- NOW-PLAYING:END -->
 
 ---
