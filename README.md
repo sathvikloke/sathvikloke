@@ -15,7 +15,7 @@
 
 ## `signal from biology`
 
-I'm a high schooler at the **Illinois Mathematics and Science Academy** working where biology meets machine learning. Three papers, first author on all three. Two startups. Most of it starts as a random idea at 2am.
+I'm a high schooler at the **Illinois Mathematics and Science Academy** working where biology meets machine learning. Five papers, first author on all five. Two startups. Most of it starts as a random idea at 2am.
 
 The through-line: **take a messy biological signal and pull something decisive out of it.** A knee collapsing under fatigue. A hotspot codon worth correcting. An image a model quietly got worse at.
 
@@ -46,13 +46,15 @@ The connective tissue — pipelines, interfaces, and getting the thing in front 
 
 ## `research`
 
-First author on all three.
+First author on all five.
 
 | | Paper | Venue |
 |---|---|---|
 | 🧬 | **[Cohort-stratified prioritization of CRISPR–Cas9 sgRNAs for HDR-mediated correction of TP53 hotspot codons in cancer](https://www.biorxiv.org/content/10.64898/2026.05.20.726726v1)**<br/><sub>TP53 is mutated in roughly half of all human cancers. A reproducible pipeline that ranks guides per cancer cohort — ovarian, pancreatic, colorectal — instead of ranking them in the abstract.</sub> | `bioRxiv` |
 | 📉 | **[DriftScore: an anchor-relative metric for detecting quality drift in multi-turn multimodal generation](https://openreview.net/pdf?id=S6a4Gg4Z7J)**<br/><sub>Iterative generation degrades output in ways standard no-reference metrics miss. DriftScore measures drift against the original anchor rather than between adjacent turns.</sub> | `EvalMG @ ACM SIGIR 2026` |
 | 🧠 | **[Advancing Parkinson's disease management: from dopaminergic therapy to deep brain stimulation and beyond](https://www.journalresearchhs.org/_files/ugd/ebf144_bc660d3935cc4f5597a3bfe3c31d5c48.pdf)**<br/><sub>A narrative review of modern diagnostic and therapeutic strategy, set inside a biological, economic, and psychosocial frame.</sub> | `Journal of Research High School` |
+| 🎯 | **[When does prompt-perturbation uncertainty catch interactive-segmentation failures? An empirical study on SAM/MedSAM](https://openreview.net/pdf?id=cLehr9EUAP)**<br/><sub>SAM and MedSAM give clinicians no signal for when to trust a returned mask. Jittering the prompt and measuring disagreement turns out to be the best catastrophic-failure detector on SAM — while medical fine-tuning recalibrates softmax and destroys the mask-quality head.</sub> | `UNSURE @ MICCAI 2026` |
+| 🔍 | **[What a slice-level benchmark certifies without the pixels](https://doi.org/10.5281/zenodo.21815040)**<br/><sub>Volumetric scans are labelled one slice at a time, so a score can be inflated by where a slice sits rather than what is in it. Using only four columns every benchmark already publishes — no image data at all — a pixel-blind classifier recovers a median 0.469 of the published margin over chance.</sub> | `Zenodo` |
 
 ---
 
