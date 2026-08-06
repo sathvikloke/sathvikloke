@@ -71,6 +71,7 @@ First author on all five.
 ## `where the work happens`
 
 ```
+Colorado State University             Researcher · optimizers in machine learning
 Albert Einstein College of Medicine   Researcher · LVLMs and deep learning across medical imaging
 University of Illinois Chicago        Research Intern · wet lab, cell culture
 Stanford Neuroscience Journal Club    Member · dissecting current research with a remote cohort
