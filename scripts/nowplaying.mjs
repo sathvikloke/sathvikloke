@@ -13,9 +13,14 @@ const END = '<!-- NOW-PLAYING:END -->'
 const API = 'https://ws.audioscrobbler.com/2.0/'
 
 const { LASTFM_API_KEY: api_key, LASTFM_USER: user } = process.env
+
+// Not configured is a valid state, not a failure. This block is optional
+// decoration on a README — exiting non-zero here fails the workflow on every
+// scheduled run and GitHub emails about it daily. Leave the markers empty
+// and succeed quietly instead.
 if (!api_key || !user) {
-  console.error('Missing LASTFM_API_KEY or LASTFM_USER.')
-  process.exit(1)
+  console.log('LASTFM_API_KEY / LASTFM_USER not set — skipping. See README setup notes.')
+  process.exit(0)
 }
 
 const call = async (params) => {
