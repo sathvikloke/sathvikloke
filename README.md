@@ -130,21 +130,21 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 <div align="center">
 
-### `♫ now playing`
+### `♫ last played`
 
-**POP** — Lil Uzi Vert
+**Poured** — Lil Uzi Vert
 
 </div>
 
 | recent | artist |
 |---|---|
-| `POP` | Lil Uzi Vert |
-| `POP` | Lil Uzi Vert |
-| `POP` | Lil Uzi Vert |
-| `Dogfood` | untiljapan |
-| `223` | Lil Uzi Vert |
+| `Poured` | Lil Uzi Vert |
+| `Celebration (Feat. Drake)` | Tank |
+| `High Fives` | Drake |
+| `Slap The City (feat. Qendresa)` | Drake |
+| `Poured` | Lil Uzi Vert |
 
-<sub>Top artists this month — `Ken Carson` · `Don Toliver` · `Playboi Carti` · `Travis Scott` · `Lil Uzi Vert`</sub>
+<sub>Top artists this month — `Ken Carson` · `Lil Uzi Vert` · `Don Toliver` · `Playboi Carti` · `Travis Scott`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
