@@ -130,19 +130,19 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 <div align="center">
 
-### `♫ now playing`
+### `♫ last played`
 
-**Leather Coat** — Don Toliver
+**SKELETONS** — Travis Scott
 
 </div>
 
 | recent | artist |
 |---|---|
+| `SKELETONS` | Travis Scott |
+| `Leather Coat` | Don Toliver |
+| `Leather Coat` | Don Toliver |
 | `Encouragement` | Don Toliver |
 | `Over My Dead Body` | Drake |
-| `CALL BACK` | Don Toliver |
-| `Private Landing (feat. Justin Bieber & Future)` | Don Toliver |
-| `TMU` | Don Toliver |
 
 <sub>Top artists this month — `Ken Carson` · `Lil Uzi Vert` · `Don Toliver` · `Playboi Carti` · `Travis Scott`</sub>
 
