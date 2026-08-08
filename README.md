@@ -132,16 +132,16 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Poured** — Lil Uzi Vert
+**flooded** — Gunna
 
 </div>
 
 | recent | artist |
 |---|---|
-| `Poured` | Lil Uzi Vert |
-| `Celebration (Feat. Drake)` | Tank |
-| `High Fives` | Drake |
-| `Slap The City (feat. Qendresa)` | Drake |
+| `flooded` | Gunna |
+| `pushin P (feat. Young Thug)` | Gunna |
+| `Fortworth (feat. PARTYNEXTDOOR)` | Drake |
+| `Maverick Intro` | Lil Uzi Vert |
 | `Poured` | Lil Uzi Vert |
 
 <sub>Top artists this month — `Ken Carson` · `Lil Uzi Vert` · `Don Toliver` · `Playboi Carti` · `Travis Scott`</sub>
