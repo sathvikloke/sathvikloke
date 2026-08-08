@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**x2** — Lil Uzi Vert
+**MILLION DOLLAR MINION** — Yeat
 
 </div>
 
 | recent | artist |
 |---|---|
+| `MILLION DOLLAR MINION` | Yeat |
 | `x2` | Lil Uzi Vert |
 | `SKELETONS` | Travis Scott |
 | `Leather Coat` | Don Toliver |
 | `Leather Coat` | Don Toliver |
-| `Encouragement` | Don Toliver |
 
 <sub>Top artists this month — `Ken Carson` · `Lil Uzi Vert` · `Don Toliver` · `Playboi Carti` · `Travis Scott`</sub>
 
