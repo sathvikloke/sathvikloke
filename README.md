@@ -130,7 +130,7 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 <div align="center">
 
-### `♫ now playing`
+### `♫ last played`
 
 **x2** — Lil Uzi Vert
 
@@ -138,11 +138,11 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 | recent | artist |
 |---|---|
+| `x2` | Lil Uzi Vert |
 | `SKELETONS` | Travis Scott |
 | `Leather Coat` | Don Toliver |
 | `Leather Coat` | Don Toliver |
 | `Encouragement` | Don Toliver |
-| `Over My Dead Body` | Drake |
 
 <sub>Top artists this month — `Ken Carson` · `Lil Uzi Vert` · `Don Toliver` · `Playboi Carti` · `Travis Scott`</sub>
 
