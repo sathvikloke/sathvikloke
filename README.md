@@ -130,19 +130,19 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 <div align="center">
 
-### `♫ now playing`
+### `♫ last played`
 
-**How We Coming** — Migos
+**Menace** — Migos
 
 </div>
 
 | recent | artist |
 |---|---|
+| `Menace` | Migos |
+| `Handsome and Wealthy` | Migos |
+| `How We Coming` | Migos |
 | `Having Our Way (feat. Drake)` | Migos |
 | `Hours In Silence` | Drake |
-| `500lbs` | Lil Tecca |
-| `Overdue (with Travis Scott)` | Metro Boomin |
-| `TOXIC (with Skepta)` | Playboi Carti |
 
 <sub>Top artists this month — `Ken Carson` · `Lil Uzi Vert` · `Don Toliver` · `Playboi Carti` · `Travis Scott`</sub>
 
