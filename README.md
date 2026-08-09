@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ now playing`
 
-**Overdue (with Travis Scott)** — Metro Boomin
+**How We Coming** — Migos
 
 </div>
 
 | recent | artist |
 |---|---|
+| `Having Our Way (feat. Drake)` | Migos |
+| `Hours In Silence` | Drake |
+| `500lbs` | Lil Tecca |
+| `Overdue (with Travis Scott)` | Metro Boomin |
 | `TOXIC (with Skepta)` | Playboi Carti |
-| `sweet sweet` | Travis Scott |
-| `Fell in Luv (feat. Bryson Tiller)` | Playboi Carti |
-| `Leather Coat` | Don Toliver |
-| `Time Heals All` | Don Toliver |
 
 <sub>Top artists this month — `Ken Carson` · `Lil Uzi Vert` · `Don Toliver` · `Playboi Carti` · `Travis Scott`</sub>
 
