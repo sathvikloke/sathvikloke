@@ -130,21 +130,21 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 <div align="center">
 
-### `♫ last played`
+### `♫ now playing`
 
-**Menace** — Migos
+**BACKSTREETS (FEAT. TEEZO TOUCHDOWN)** — Don Toliver
 
 </div>
 
 | recent | artist |
 |---|---|
-| `Menace` | Migos |
-| `Handsome and Wealthy` | Migos |
-| `How We Coming` | Migos |
-| `Having Our Way (feat. Drake)` | Migos |
-| `Hours In Silence` | Drake |
+| `ICE AGE (FEAT. TRAVIS SCOTT)` | Don Toliver |
+| `4X4` | Don Toliver |
+| `Picasso (feat. Future)` | Migos |
+| `Walk It Talk It` | Migos |
+| `Antidote` | Migos |
 
-<sub>Top artists this month — `Ken Carson` · `Lil Uzi Vert` · `Don Toliver` · `Playboi Carti` · `Travis Scott`</sub>
+<sub>Top artists this month — `Ken Carson` · `Don Toliver` · `Lil Uzi Vert` · `Playboi Carti` · `Travis Scott`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
