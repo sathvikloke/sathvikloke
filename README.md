@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ now playing`
 
-**BACKSTREETS (FEAT. TEEZO TOUCHDOWN)** — Don Toliver
+**Re Up** — Belly
 
 </div>
 
 | recent | artist |
 |---|---|
-| `ICE AGE (FEAT. TRAVIS SCOTT)` | Don Toliver |
-| `4X4` | Don Toliver |
-| `Picasso (feat. Future)` | Migos |
-| `Walk It Talk It` | Migos |
-| `Antidote` | Migos |
+| `Champion (feat. Travis Scott)` | NAV |
+| `Champion (feat. Travis Scott)` | NAV |
+| `Champion (feat. Travis Scott)` | NAV |
+| `Champion (feat. Travis Scott)` | NAV |
+| `Place` | Playboi Carti |
 
 <sub>Top artists this month — `Ken Carson` · `Don Toliver` · `Lil Uzi Vert` · `Playboi Carti` · `Travis Scott`</sub>
 
