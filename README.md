@@ -130,19 +130,19 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 <div align="center">
 
-### `♫ last played`
+### `♫ now playing`
 
-**Leather Coat** — Don Toliver
+**Overdue (with Travis Scott)** — Metro Boomin
 
 </div>
 
 | recent | artist |
 |---|---|
+| `TOXIC (with Skepta)` | Playboi Carti |
+| `sweet sweet` | Travis Scott |
+| `Fell in Luv (feat. Bryson Tiller)` | Playboi Carti |
 | `Leather Coat` | Don Toliver |
-| `Leather Coat` | Don Toliver |
-| `MILLION DOLLAR MINION` | Yeat |
-| `x2` | Lil Uzi Vert |
-| `SKELETONS` | Travis Scott |
+| `Time Heals All` | Don Toliver |
 
 <sub>Top artists this month — `Ken Carson` · `Lil Uzi Vert` · `Don Toliver` · `Playboi Carti` · `Travis Scott`</sub>
 
