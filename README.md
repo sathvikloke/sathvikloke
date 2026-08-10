@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Champion (feat. Travis Scott)** — NAV
+**Smoke (feat. HVN & SoFaygo)** — Don Toliver
 
 </div>
 
 | recent | artist |
 |---|---|
-| `Champion (feat. Travis Scott)` | NAV |
-| `Champion (feat. Travis Scott)` | NAV |
-| `Champion (feat. Travis Scott)` | NAV |
-| `Champion (feat. Travis Scott)` | NAV |
-| `Champion (feat. Travis Scott)` | NAV |
+| `Smoke (feat. HVN & SoFaygo)` | Don Toliver |
+| `Company Pt 2` | Don Toliver |
+| `Way Bigger` | Don Toliver |
+| `XSCAPE` | Don Toliver |
+| `5X` | Don Toliver |
 
 <sub>Top artists this month — `Ken Carson` · `Don Toliver` · `Lil Uzi Vert` · `NAV` · `Playboi Carti`</sub>
 
