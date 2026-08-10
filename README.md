@@ -132,19 +132,19 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Freshman List** — NAV
+**Champion (feat. Travis Scott)** — NAV
 
 </div>
 
 | recent | artist |
 |---|---|
-| `Freshman List` | NAV |
-| `Re Up` | Belly |
+| `Champion (feat. Travis Scott)` | NAV |
+| `Champion (feat. Travis Scott)` | NAV |
 | `Champion (feat. Travis Scott)` | NAV |
 | `Champion (feat. Travis Scott)` | NAV |
 | `Champion (feat. Travis Scott)` | NAV |
 
-<sub>Top artists this month — `Ken Carson` · `Don Toliver` · `Lil Uzi Vert` · `Playboi Carti` · `Travis Scott`</sub>
+<sub>Top artists this month — `Ken Carson` · `Don Toliver` · `Lil Uzi Vert` · `NAV` · `Playboi Carti`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
