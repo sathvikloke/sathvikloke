@@ -132,19 +132,19 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**ICE AGE (FEAT. TRAVIS SCOTT)** — Don Toliver
+**Used (feat. Don Toliver)** — SZA
 
 </div>
 
 | recent | artist |
 |---|---|
+| `Used (feat. Don Toliver)` | SZA |
+| `Go Down (feat. TisaKorean)` | Don Toliver |
+| `Leather Coat` | Don Toliver |
+| `D4U - Spotify Singles` | Avenoir |
 | `ICE AGE (FEAT. TRAVIS SCOTT)` | Don Toliver |
-| `Racks 2 Skinny` | Migos |
-| `LIKE I WANT YOU` | Givēon |
-| `Smoke (feat. HVN & SoFaygo)` | Don Toliver |
-| `Company Pt 2` | Don Toliver |
 
-<sub>Top artists this month — `Ken Carson` · `Don Toliver` · `Lil Uzi Vert` · `NAV` · `Playboi Carti`</sub>
+<sub>Top artists this month — `Don Toliver` · `Ken Carson` · `Lil Uzi Vert` · `NAV` · `Playboi Carti`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
