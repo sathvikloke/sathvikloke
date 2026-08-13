@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Sweet Home** — Don Toliver
+**Sideways** — Gordo
 
 </div>
 
 | recent | artist |
 |---|---|
+| `Sideways` | Gordo |
+| `Slap The City (feat. Qendresa)` | Drake |
+| `Slap The City (feat. Qendresa)` | Drake |
+| `Beep Beep` | Travis Scott |
 | `Sweet Home` | Don Toliver |
-| `Body` | Don Toliver |
-| `K9 (feat. SahBabii)` | Don Toliver |
-| `K9 (feat. SahBabii)` | Don Toliver |
-| `K9 (feat. SahBabii)` | Don Toliver |
 
 <sub>Top artists this month — `Don Toliver` · `Ken Carson` · `Lil Uzi Vert` · `NAV` · `Playboi Carti`</sub>
 
