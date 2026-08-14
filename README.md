@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Sideways** — Gordo
+**Slap The City (feat. Qendresa)** — Drake
 
 </div>
 
 | recent | artist |
 |---|---|
+| `Slap The City (feat. Qendresa)` | Drake |
+| `Time Heals All` | Don Toliver |
+| `Leather Coat` | Don Toliver |
+| `Road Trips` | Drake |
 | `Sideways` | Gordo |
-| `Slap The City (feat. Qendresa)` | Drake |
-| `Slap The City (feat. Qendresa)` | Drake |
-| `Beep Beep` | Travis Scott |
-| `Sweet Home` | Don Toliver |
 
 <sub>Top artists this month — `Don Toliver` · `Ken Carson` · `Lil Uzi Vert` · `NAV` · `Playboi Carti`</sub>
 
