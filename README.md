@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Slap The City (feat. Qendresa)** — Drake
+**Company Pt 2** — Don Toliver
 
 </div>
 
 | recent | artist |
 |---|---|
+| `Company Pt 2` | Don Toliver |
+| `Time Heals All` | Don Toliver |
 | `Slap The City (feat. Qendresa)` | Drake |
 | `Time Heals All` | Don Toliver |
 | `Leather Coat` | Don Toliver |
-| `Road Trips` | Drake |
-| `Sideways` | Gordo |
 
 <sub>Top artists this month — `Don Toliver` · `Ken Carson` · `Lil Uzi Vert` · `NAV` · `Playboi Carti`</sub>
 
