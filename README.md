@@ -130,19 +130,19 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 <div align="center">
 
-### `♫ last played`
+### `♫ now playing`
 
-**Company Pt 2** — Don Toliver
+**All The Signs (feat. Teezo Touchdown)** — Don Toliver
 
 </div>
 
 | recent | artist |
 |---|---|
+| `All The Signs (feat. Teezo Touchdown)` | Don Toliver |
 | `Company Pt 2` | Don Toliver |
 | `Time Heals All` | Don Toliver |
 | `Slap The City (feat. Qendresa)` | Drake |
 | `Time Heals All` | Don Toliver |
-| `Leather Coat` | Don Toliver |
 
 <sub>Top artists this month — `Don Toliver` · `Ken Carson` · `Lil Uzi Vert` · `NAV` · `Playboi Carti`</sub>
 
