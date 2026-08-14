@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ now playing`
 
-**All The Signs (feat. Teezo Touchdown)** — Don Toliver
+**wedidit (with Playboi Carti)** — Ken Carson
 
 </div>
 
 | recent | artist |
 |---|---|
-| `All The Signs (feat. Teezo Touchdown)` | Don Toliver |
-| `Company Pt 2` | Don Toliver |
-| `Time Heals All` | Don Toliver |
+| `Run + Ran` | Ken Carson |
+| `Feel A Way (feat. Don Toliver)` | KAYTRANADA |
+| `Madonna` | Toro y Moi |
+| `Go Down (feat. TisaKorean)` | Don Toliver |
 | `Slap The City (feat. Qendresa)` | Drake |
-| `Time Heals All` | Don Toliver |
 
 <sub>Top artists this month — `Don Toliver` · `Ken Carson` · `Lil Uzi Vert` · `NAV` · `Playboi Carti`</sub>
 
