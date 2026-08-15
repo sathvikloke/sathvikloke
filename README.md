@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ now playing`
 
-**Don’t Worry** — Drake
+**Make Them Know** — Drake
 
 </div>
 
 | recent | artist |
 |---|---|
+| `Firm Friends` | Drake |
+| `Slap The City (feat. Qendresa)` | Drake |
+| `Don’t Worry` | Drake |
 | `Run + Ran` | Ken Carson |
 | `Drunk and Nasty (feat. Sharc)` | Pi’erre Bourne |
-| `wedidit (with Playboi Carti)` | Ken Carson |
-| `Run + Ran` | Ken Carson |
-| `Feel A Way (feat. Don Toliver)` | KAYTRANADA |
 
 <sub>Top artists this month — `Don Toliver` · `Ken Carson` · `Lil Uzi Vert` · `NAV` · `Drake`</sub>
 
