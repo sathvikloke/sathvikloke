@@ -130,21 +130,21 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 <div align="center">
 
-### `♫ last played`
+### `♫ now playing`
 
-**Drunk and Nasty (feat. Sharc)** — Pi’erre Bourne
+**Don’t Worry** — Drake
 
 </div>
 
 | recent | artist |
 |---|---|
+| `Run + Ran` | Ken Carson |
 | `Drunk and Nasty (feat. Sharc)` | Pi’erre Bourne |
 | `wedidit (with Playboi Carti)` | Ken Carson |
 | `Run + Ran` | Ken Carson |
 | `Feel A Way (feat. Don Toliver)` | KAYTRANADA |
-| `Madonna` | Toro y Moi |
 
-<sub>Top artists this month — `Don Toliver` · `Ken Carson` · `Lil Uzi Vert` · `NAV` · `Playboi Carti`</sub>
+<sub>Top artists this month — `Don Toliver` · `Ken Carson` · `Lil Uzi Vert` · `NAV` · `Drake`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
