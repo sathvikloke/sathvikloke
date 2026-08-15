@@ -130,7 +130,7 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 <div align="center">
 
-### `♫ now playing`
+### `♫ last played`
 
 **Make Them Know** — Drake
 
@@ -138,11 +138,11 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 | recent | artist |
 |---|---|
+| `Make Them Know` | Drake |
 | `Firm Friends` | Drake |
 | `Slap The City (feat. Qendresa)` | Drake |
 | `Don’t Worry` | Drake |
 | `Run + Ran` | Ken Carson |
-| `Drunk and Nasty (feat. Sharc)` | Pi’erre Bourne |
 
 <sub>Top artists this month — `Don Toliver` · `Ken Carson` · `Lil Uzi Vert` · `NAV` · `Drake`</sub>
 
