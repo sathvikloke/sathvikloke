@@ -130,19 +130,19 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 <div align="center">
 
-### `♫ now playing`
+### `♫ last played`
 
-**PURPLE RAIN (FEAT. FUTURE & METRO BOOMIN)** — Don Toliver
+**Go Down (feat. TisaKorean)** — Don Toliver
 
 </div>
 
 | recent | artist |
 |---|---|
-| `BANDIT` | Don Toliver |
-| `INSIDE (FEAT. TRAVIS SCOTT)` | Don Toliver |
-| `ICE AGE (FEAT. TRAVIS SCOTT)` | Don Toliver |
-| `KRYPTONITE` | Don Toliver |
-| `All The Signs (feat. Teezo Touchdown)` | Don Toliver |
+| `Go Down (feat. TisaKorean)` | Don Toliver |
+| `Flocky Flocky (feat. Travis Scott)` | Don Toliver |
+| `Double Standards` | Don Toliver |
+| `Madonna` | Toro y Moi |
+| `PURPLE RAIN (FEAT. FUTURE & METRO BOOMIN)` | Don Toliver |
 
 <sub>Top artists this month — `Don Toliver` · `Ken Carson` · `Lil Uzi Vert` · `Drake` · `NAV`</sub>
 
