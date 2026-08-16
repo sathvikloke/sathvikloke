@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Go Down (feat. TisaKorean)** — Don Toliver
+**Leather Coat** — Don Toliver
 
 </div>
 
 | recent | artist |
 |---|---|
+| `Leather Coat` | Don Toliver |
 | `Go Down (feat. TisaKorean)` | Don Toliver |
 | `Flocky Flocky (feat. Travis Scott)` | Don Toliver |
 | `Double Standards` | Don Toliver |
 | `Madonna` | Toro y Moi |
-| `PURPLE RAIN (FEAT. FUTURE & METRO BOOMIN)` | Don Toliver |
 
 <sub>Top artists this month — `Don Toliver` · `Ken Carson` · `Lil Uzi Vert` · `Drake` · `NAV`</sub>
 
