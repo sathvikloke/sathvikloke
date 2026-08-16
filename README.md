@@ -132,19 +132,19 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Make Them Know** — Drake
+**Slap The City (feat. Qendresa)** — Drake
 
 </div>
 
 | recent | artist |
 |---|---|
-| `Make Them Know` | Drake |
-| `Firm Friends` | Drake |
 | `Slap The City (feat. Qendresa)` | Drake |
-| `Don’t Worry` | Drake |
+| `National Treasures` | Drake |
 | `Run + Ran` | Ken Carson |
+| `CALL BACK` | Don Toliver |
+| `Make Them Know` | Drake |
 
-<sub>Top artists this month — `Don Toliver` · `Ken Carson` · `Lil Uzi Vert` · `NAV` · `Drake`</sub>
+<sub>Top artists this month — `Don Toliver` · `Ken Carson` · `Lil Uzi Vert` · `Drake` · `NAV`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
