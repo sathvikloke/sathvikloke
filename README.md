@@ -130,19 +130,19 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 <div align="center">
 
-### `♫ last played`
+### `♫ now playing`
 
-**Slap The City (feat. Qendresa)** — Drake
+**Jump Out the Face (feat. Future)** — Meek Mill
 
 </div>
 
 | recent | artist |
 |---|---|
+| `Minute` | NAV |
+| `Kelly Price (feat. Travis Scott)` | Migos |
+| `Jeremy Lin` | Speer |
+| `HOTEL LOBBY (Unc & Phew)` | Quavo |
 | `Slap The City (feat. Qendresa)` | Drake |
-| `National Treasures` | Drake |
-| `Run + Ran` | Ken Carson |
-| `CALL BACK` | Don Toliver |
-| `Make Them Know` | Drake |
 
 <sub>Top artists this month — `Don Toliver` · `Ken Carson` · `Lil Uzi Vert` · `Drake` · `NAV`</sub>
 
