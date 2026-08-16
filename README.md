@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ now playing`
 
-**Jump Out the Face (feat. Future)** — Meek Mill
+**PURPLE RAIN (FEAT. FUTURE & METRO BOOMIN)** — Don Toliver
 
 </div>
 
 | recent | artist |
 |---|---|
-| `Minute` | NAV |
-| `Kelly Price (feat. Travis Scott)` | Migos |
-| `Jeremy Lin` | Speer |
-| `HOTEL LOBBY (Unc & Phew)` | Quavo |
-| `Slap The City (feat. Qendresa)` | Drake |
+| `BANDIT` | Don Toliver |
+| `INSIDE (FEAT. TRAVIS SCOTT)` | Don Toliver |
+| `ICE AGE (FEAT. TRAVIS SCOTT)` | Don Toliver |
+| `KRYPTONITE` | Don Toliver |
+| `All The Signs (feat. Teezo Touchdown)` | Don Toliver |
 
 <sub>Top artists this month — `Don Toliver` · `Ken Carson` · `Lil Uzi Vert` · `Drake` · `NAV`</sub>
 
