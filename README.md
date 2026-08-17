@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Leather Coat** — Don Toliver
+**TMU** — Don Toliver
 
 </div>
 
 | recent | artist |
 |---|---|
+| `TMU` | Don Toliver |
+| `wedidit (with Playboi Carti)` | Ken Carson |
+| `Boys Don’t Cry` | Lil Tecca |
+| `Don’t Rush` | Lil Tecca |
 | `Leather Coat` | Don Toliver |
-| `Go Down (feat. TisaKorean)` | Don Toliver |
-| `Flocky Flocky (feat. Travis Scott)` | Don Toliver |
-| `Double Standards` | Don Toliver |
-| `Madonna` | Toro y Moi |
 
 <sub>Top artists this month — `Don Toliver` · `Ken Carson` · `Lil Uzi Vert` · `Drake` · `NAV`</sub>
 
