@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Kelly Price (feat. Travis Scott)** — Migos
+**Quintana Pt. 2** — Travis Scott
 
 </div>
 
 | recent | artist |
 |---|---|
+| `Quintana Pt. 2` | Travis Scott |
+| `Slap The City (feat. Qendresa)` | Drake |
+| `Slap The City (feat. Qendresa)` | Drake |
+| `OPM BABI` | Playboi Carti |
 | `Kelly Price (feat. Travis Scott)` | Migos |
-| `Movin' Too Fast` | Migos |
-| `MotorSport` | Migos |
-| `Kelly Price (feat. Travis Scott)` | Migos |
-| `HOTEL LOBBY (Unc & Phew)` | Quavo |
 
 <sub>Top artists this month — `Don Toliver` · `Ken Carson` · `Lil Uzi Vert` · `Drake` · `NAV`</sub>
 
