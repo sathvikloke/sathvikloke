@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**TMU** — Don Toliver
+**Kelly Price (feat. Travis Scott)** — Migos
 
 </div>
 
 | recent | artist |
 |---|---|
-| `TMU` | Don Toliver |
-| `wedidit (with Playboi Carti)` | Ken Carson |
-| `Boys Don’t Cry` | Lil Tecca |
-| `Don’t Rush` | Lil Tecca |
+| `Kelly Price (feat. Travis Scott)` | Migos |
+| `Whisper My Name` | Drake |
+| `Maverick Intro` | Lil Uzi Vert |
 | `Leather Coat` | Don Toliver |
+| `TMU` | Don Toliver |
 
 <sub>Top artists this month — `Don Toliver` · `Ken Carson` · `Lil Uzi Vert` · `Drake` · `NAV`</sub>
 
