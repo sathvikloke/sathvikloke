@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**MotorSport** — Migos
+**Kelly Price (feat. Travis Scott)** — Migos
 
 </div>
 
 | recent | artist |
 |---|---|
+| `Kelly Price (feat. Travis Scott)` | Migos |
+| `Movin' Too Fast` | Migos |
 | `MotorSport` | Migos |
 | `Kelly Price (feat. Travis Scott)` | Migos |
 | `HOTEL LOBBY (Unc & Phew)` | Quavo |
-| `Walk It Talk It` | Migos |
-| `Kelly Price (feat. Travis Scott)` | Migos |
 
 <sub>Top artists this month — `Don Toliver` · `Ken Carson` · `Lil Uzi Vert` · `Drake` · `NAV`</sub>
 
