@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Hours In Silence** — Drake
+**The Race - Remix** — Tay-K
 
 </div>
 
 | recent | artist |
 |---|---|
+| `The Race - Remix` | Tay-K |
 | `Hours In Silence` | Drake |
 | `Slap The City (feat. Qendresa)` | Drake |
 | `Quintana Pt. 2` | Travis Scott |
 | `Zombies` | Travis Scott |
-| `Basement Freestyle` | Travis Scott |
 
 <sub>Top artists this month — `Don Toliver` · `Ken Carson` · `Drake` · `Lil Uzi Vert` · `NAV`</sub>
 
