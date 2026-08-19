@@ -130,21 +130,21 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 <div align="center">
 
-### `♫ now playing`
+### `♫ last played`
 
-**Zombies** — Travi$ Scott
+**Hours In Silence** — Drake
 
 </div>
 
 | recent | artist |
 |---|---|
+| `Hours In Silence` | Drake |
+| `Slap The City (feat. Qendresa)` | Drake |
+| `Quintana Pt. 2` | Travis Scott |
+| `Zombies` | Travis Scott |
 | `Basement Freestyle` | Travis Scott |
-| `Quintana Pt. 2` | Travis Scott |
-| `Quintana Pt. 2` | Travis Scott |
-| `Slap The City (feat. Qendresa)` | Drake |
-| `Slap The City (feat. Qendresa)` | Drake |
 
-<sub>Top artists this month — `Don Toliver` · `Ken Carson` · `Lil Uzi Vert` · `Drake` · `NAV`</sub>
+<sub>Top artists this month — `Don Toliver` · `Ken Carson` · `Drake` · `Lil Uzi Vert` · `NAV`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
