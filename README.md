@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**The Race - Remix** — Tay-K
+**Solid (feat. Drake)** — Young Stoner Life
 
 </div>
 
 | recent | artist |
 |---|---|
+| `Solid (feat. Drake)` | Young Stoner Life |
+| `Run + Ran` | Ken Carson |
+| `Don't Play (feat. The 1975 & Big Sean)` | Travis Scott |
 | `The Race - Remix` | Tay-K |
 | `Hours In Silence` | Drake |
-| `Slap The City (feat. Qendresa)` | Drake |
-| `Quintana Pt. 2` | Travis Scott |
-| `Zombies` | Travis Scott |
 
 <sub>Top artists this month — `Don Toliver` · `Ken Carson` · `Drake` · `Lil Uzi Vert` · `NAV`</sub>
 
