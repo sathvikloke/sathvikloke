@@ -130,19 +130,19 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 <div align="center">
 
-### `♫ last played`
+### `♫ now playing`
 
-**Quintana Pt. 2** — Travis Scott
+**Zombies** — Travi$ Scott
 
 </div>
 
 | recent | artist |
 |---|---|
+| `Basement Freestyle` | Travis Scott |
+| `Quintana Pt. 2` | Travis Scott |
 | `Quintana Pt. 2` | Travis Scott |
 | `Slap The City (feat. Qendresa)` | Drake |
 | `Slap The City (feat. Qendresa)` | Drake |
-| `OPM BABI` | Playboi Carti |
-| `Kelly Price (feat. Travis Scott)` | Migos |
 
 <sub>Top artists this month — `Don Toliver` · `Ken Carson` · `Lil Uzi Vert` · `Drake` · `NAV`</sub>
 
