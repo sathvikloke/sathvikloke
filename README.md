@@ -130,7 +130,7 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 <div align="center">
 
-### `♫ now playing`
+### `♫ last played`
 
 **Run + Ran** — Ken Carson
 
@@ -138,11 +138,11 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 | recent | artist |
 |---|---|
+| `Run + Ran` | Ken Carson |
 | `Runnin` | 21 Savage |
 | `Am I Dreaming (Metro Boomin & A$AP Rocky, Roisee)` | Metro Boomin |
 | `Solid (feat. Drake)` | Young Stoner Life |
 | `Run + Ran` | Ken Carson |
-| `Don't Play (feat. The 1975 & Big Sean)` | Travis Scott |
 
 <sub>Top artists this month — `Don Toliver` · `Ken Carson` · `Drake` · `Lil Uzi Vert` · `NAV`</sub>
 
