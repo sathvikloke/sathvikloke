@@ -130,21 +130,21 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 <div align="center">
 
-### `♫ last played`
+### `♫ now playing`
 
-**Run + Ran** — Ken Carson
+**coordinate** — Travis Scott
 
 </div>
 
 | recent | artist |
 |---|---|
+| `coordinate` | Travis Scott |
+| `way back` | Travis Scott |
+| `the ends` | Travis Scott |
 | `Run + Ran` | Ken Carson |
-| `Runnin` | 21 Savage |
-| `Am I Dreaming (Metro Boomin & A$AP Rocky, Roisee)` | Metro Boomin |
-| `Solid (feat. Drake)` | Young Stoner Life |
 | `Run + Ran` | Ken Carson |
 
-<sub>Top artists this month — `Don Toliver` · `Ken Carson` · `Drake` · `Lil Uzi Vert` · `NAV`</sub>
+<sub>Top artists this month — `Don Toliver` · `Ken Carson` · `Drake` · `Lil Uzi Vert` · `Travis Scott`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
