@@ -132,16 +132,16 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Family Matters** — Drake
+**coordinate** — Travis Scott
 
 </div>
 
 | recent | artist |
 |---|---|
+| `coordinate` | Travis Scott |
 | `Family Matters` | Drake |
 | `Family Matters` | Drake |
 | `Exodus` | t5xy |
-| `coordinate` | Travis Scott |
 | `coordinate` | Travis Scott |
 
 <sub>Top artists this month — `Don Toliver` · `Ken Carson` · `Drake` · `Lil Uzi Vert` · `Travis Scott`</sub>
