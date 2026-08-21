@@ -130,19 +130,19 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 <div align="center">
 
-### `♫ now playing`
+### `♫ last played`
 
-**TEC** — Lil Tecca
+**Real Discussions** — Lil Tecca
 
 </div>
 
 | recent | artist |
 |---|---|
-| `Shabang` | Drake |
-| `Janice STFU` | Drake |
-| `Family Matters` | Drake |
-| `Family Matters` | Drake |
-| `Kelly Price (feat. Travis Scott)` | Migos |
+| `Real Discussions` | Lil Tecca |
+| `Salty` | Lil Tecca |
+| `TEC` | Lil Tecca |
+| `Salty` | Lil Tecca |
+| `TEC` | Lil Tecca |
 
 <sub>Top artists this month — `Don Toliver` · `Ken Carson` · `Drake` · `Travis Scott` · `Lil Uzi Vert`</sub>
 
