@@ -130,19 +130,19 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 <div align="center">
 
-### `♫ last played`
+### `♫ now playing`
 
-**coordinate** — Travis Scott
+**Family Matters** — Drake
 
 </div>
 
 | recent | artist |
 |---|---|
+| `Family Matters` | Drake |
+| `Exodus` | t5xy |
+| `coordinate` | Travis Scott |
 | `coordinate` | Travis Scott |
 | `way back` | Travis Scott |
-| `the ends` | Travis Scott |
-| `Run + Ran` | Ken Carson |
-| `Run + Ran` | Ken Carson |
 
 <sub>Top artists this month — `Don Toliver` · `Ken Carson` · `Drake` · `Lil Uzi Vert` · `Travis Scott`</sub>
 
