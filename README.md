@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Real Discussions** — Lil Tecca
+**goosebumps** — Travis Scott
 
 </div>
 
 | recent | artist |
 |---|---|
+| `goosebumps` | Travis Scott |
+| `sweet sweet` | Travis Scott |
+| `beibs in the trap` | Travis Scott |
+| `Dead or Alive` | Lil Tecca |
 | `Real Discussions` | Lil Tecca |
-| `Salty` | Lil Tecca |
-| `TEC` | Lil Tecca |
-| `Salty` | Lil Tecca |
-| `TEC` | Lil Tecca |
 
 <sub>Top artists this month — `Don Toliver` · `Ken Carson` · `Drake` · `Travis Scott` · `Lil Uzi Vert`</sub>
 
