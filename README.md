@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**coordinate** — Travis Scott
+**Cinderella** — Future
 
 </div>
 
 | recent | artist |
 |---|---|
+| `Cinderella` | Future |
+| `Cinderella` | Future |
 | `coordinate` | Travis Scott |
 | `Family Matters` | Drake |
 | `Family Matters` | Drake |
-| `Exodus` | t5xy |
-| `coordinate` | Travis Scott |
 
 <sub>Top artists this month — `Don Toliver` · `Ken Carson` · `Drake` · `Lil Uzi Vert` · `Travis Scott`</sub>
 
