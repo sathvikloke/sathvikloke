@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ now playing`
 
-**Family Matters** — Drake
+**TEC** — Lil Tecca
 
 </div>
 
 | recent | artist |
 |---|---|
+| `Shabang` | Drake |
+| `Janice STFU` | Drake |
+| `Family Matters` | Drake |
+| `Family Matters` | Drake |
 | `Kelly Price (feat. Travis Scott)` | Migos |
-| `Quintana Pt. 2` | Travis Scott |
-| `Slap The City (feat. Qendresa)` | Drake |
-| `Cinderella` | Future |
-| `Cinderella` | Future |
 
 <sub>Top artists this month — `Don Toliver` · `Ken Carson` · `Drake` · `Travis Scott` · `Lil Uzi Vert`</sub>
 
