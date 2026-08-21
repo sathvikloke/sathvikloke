@@ -130,21 +130,21 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 <div align="center">
 
-### `♫ last played`
+### `♫ now playing`
 
-**Cinderella** — Future
+**Family Matters** — Drake
 
 </div>
 
 | recent | artist |
 |---|---|
+| `Kelly Price (feat. Travis Scott)` | Migos |
+| `Quintana Pt. 2` | Travis Scott |
+| `Slap The City (feat. Qendresa)` | Drake |
 | `Cinderella` | Future |
 | `Cinderella` | Future |
-| `coordinate` | Travis Scott |
-| `Family Matters` | Drake |
-| `Family Matters` | Drake |
 
-<sub>Top artists this month — `Don Toliver` · `Ken Carson` · `Drake` · `Lil Uzi Vert` · `Travis Scott`</sub>
+<sub>Top artists this month — `Don Toliver` · `Ken Carson` · `Drake` · `Travis Scott` · `Lil Uzi Vert`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
