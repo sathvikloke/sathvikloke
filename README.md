@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ now playing`
 
-**TEC** — Lil Tecca
+**Umbrella (with 21 Savage & Young Nudy)** — Metro Boomin
 
 </div>
 
 | recent | artist |
 |---|---|
-| `goosebumps` | Travis Scott |
-| `sweet sweet` | Travis Scott |
-| `beibs in the trap` | Travis Scott |
-| `Dead or Alive` | Lil Tecca |
-| `Real Discussions` | Lil Tecca |
+| `Cinderella` | Future |
+| `Poland` | Lil Yachty |
+| `Say It Was` | Lil Uzi Vert |
+| `MILLION DOLLAR MINION` | Yeat |
+| `Go !` | Lil Uzi Vert |
 
 <sub>Top artists this month — `Don Toliver` · `Ken Carson` · `Drake` · `Travis Scott` · `Lil Uzi Vert`</sub>
 
