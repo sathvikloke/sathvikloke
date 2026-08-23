@@ -130,19 +130,19 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 <div align="center">
 
-### `♫ now playing`
+### `♫ last played`
 
-**Out Of Love (feat. Internet Money)** — Lil Tecca
+**Champion (feat. Travis Scott)** — NAV
 
 </div>
 
 | recent | artist |
 |---|---|
+| `Champion (feat. Travis Scott)` | NAV |
+| `Out Of Love (feat. Internet Money)` | Lil Tecca |
 | `Solid (feat. Drake)` | Young Stoner Life |
 | `Wants and Needs (feat. Lil Baby)` | Drake |
 | `CIRCUS MAXIMUS (feat. The Weeknd & Swae Lee)` | Travis Scott |
-| `MY EYES` | Travis Scott |
-| `HOUSTONFORNICATION` | Travis Scott |
 
 <sub>Top artists this month — `Don Toliver` · `Travis Scott` · `Ken Carson` · `Drake` · `Lil Uzi Vert`</sub>
 
