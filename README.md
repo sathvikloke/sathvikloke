@@ -130,21 +130,21 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 <div align="center">
 
-### `♫ last played`
+### `♫ now playing`
 
-**MY EYES** — Travis Scott
+**Out Of Love (feat. Internet Money)** — Lil Tecca
 
 </div>
 
 | recent | artist |
 |---|---|
+| `Solid (feat. Drake)` | Young Stoner Life |
+| `Wants and Needs (feat. Lil Baby)` | Drake |
+| `CIRCUS MAXIMUS (feat. The Weeknd & Swae Lee)` | Travis Scott |
 | `MY EYES` | Travis Scott |
 | `HOUSTONFORNICATION` | Travis Scott |
-| `beibs in the trap` | Travis Scott |
-| `way back` | Travis Scott |
-| `outside` | Travis Scott |
 
-<sub>Top artists this month — `Don Toliver` · `Ken Carson` · `Travis Scott` · `Drake` · `Lil Uzi Vert`</sub>
+<sub>Top artists this month — `Don Toliver` · `Travis Scott` · `Ken Carson` · `Drake` · `Lil Uzi Vert`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
