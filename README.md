@@ -130,9 +130,9 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 <div align="center">
 
-### `♫ last played`
+### `♫ now playing`
 
-**goosebumps** — Travis Scott
+**TEC** — Lil Tecca
 
 </div>
 
