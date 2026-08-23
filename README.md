@@ -132,19 +132,19 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ now playing`
 
-**Ok Alright (feat. ScHoolboy Q)** — Travis Scott
+**HOUSTONFORNICATION** — Travis Scott
 
 </div>
 
 | recent | artist |
 |---|---|
-| `Oh My Dis Side (Feat. Quavo)` | Travis Scott |
-| `Zombies` | Travis Scott |
-| `PUFFIN ON ZOOTIEZ` | Future |
-| `DON'T YOU LIE` | Offset |
-| `Umbrella (with 21 Savage & Young Nudy)` | Metro Boomin |
+| `beibs in the trap` | Travis Scott |
+| `way back` | Travis Scott |
+| `outside` | Travis Scott |
+| `Pick Up the Phone (feat. Quavo)` | Young Thug |
+| `BUTTERFLY EFFECT` | Travis Scott |
 
-<sub>Top artists this month — `Don Toliver` · `Ken Carson` · `Drake` · `Travis Scott` · `Lil Uzi Vert`</sub>
+<sub>Top artists this month — `Don Toliver` · `Ken Carson` · `Travis Scott` · `Drake` · `Lil Uzi Vert`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
