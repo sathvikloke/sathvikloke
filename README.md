@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ now playing`
 
-**Umbrella (with 21 Savage & Young Nudy)** — Metro Boomin
+**Ok Alright (feat. ScHoolboy Q)** — Travis Scott
 
 </div>
 
 | recent | artist |
 |---|---|
-| `Cinderella` | Future |
-| `Poland` | Lil Yachty |
-| `Say It Was` | Lil Uzi Vert |
-| `MILLION DOLLAR MINION` | Yeat |
-| `Go !` | Lil Uzi Vert |
+| `Oh My Dis Side (Feat. Quavo)` | Travis Scott |
+| `Zombies` | Travis Scott |
+| `PUFFIN ON ZOOTIEZ` | Future |
+| `DON'T YOU LIE` | Offset |
+| `Umbrella (with 21 Savage & Young Nudy)` | Metro Boomin |
 
 <sub>Top artists this month — `Don Toliver` · `Ken Carson` · `Drake` · `Travis Scott` · `Lil Uzi Vert`</sub>
 
