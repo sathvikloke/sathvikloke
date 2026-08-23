@@ -130,19 +130,19 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 <div align="center">
 
-### `♫ now playing`
+### `♫ last played`
 
-**HOUSTONFORNICATION** — Travis Scott
+**MY EYES** — Travis Scott
 
 </div>
 
 | recent | artist |
 |---|---|
+| `MY EYES` | Travis Scott |
+| `HOUSTONFORNICATION` | Travis Scott |
 | `beibs in the trap` | Travis Scott |
 | `way back` | Travis Scott |
 | `outside` | Travis Scott |
-| `Pick Up the Phone (feat. Quavo)` | Young Thug |
-| `BUTTERFLY EFFECT` | Travis Scott |
 
 <sub>Top artists this month — `Don Toliver` · `Ken Carson` · `Travis Scott` · `Drake` · `Lil Uzi Vert`</sub>
 
