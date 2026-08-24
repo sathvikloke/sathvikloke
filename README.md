@@ -130,9 +130,9 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 <div align="center">
 
-### `♫ now playing`
+### `♫ last played`
 
-**I Had Sex With My Dog** — ChristianAdamG
+**I Kind Of Have Feelings For You** — alekirser
 
 </div>
 
