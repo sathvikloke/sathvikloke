@@ -130,19 +130,19 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 <div align="center">
 
-### `♫ now playing`
+### `♫ last played`
 
-**Fell In Love (with Ken Carson)** — Lil Tecca
+**Salty** — Lil Tecca
 
 </div>
 
 | recent | artist |
 |---|---|
+| `Salty` | Lil Tecca |
+| `TEC` | Lil Tecca |
+| `Fell In Love (with Ken Carson)` | Lil Tecca |
 | `500lbs` | Lil Tecca |
 | `Gist` | Lil Tecca |
-| `HVN ON EARTH (with Kodak Black)` | Lil Tecca |
-| `Yves` | Lil Tecca |
-| `Monday to Sunday` | Lil Tecca |
 
 <sub>Top artists this month — `Don Toliver` · `Travis Scott` · `Ken Carson` · `Drake` · `Lil Uzi Vert`</sub>
 
