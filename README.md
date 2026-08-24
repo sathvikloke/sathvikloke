@@ -130,19 +130,19 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 <div align="center">
 
-### `♫ last played`
+### `♫ now playing`
 
-**Salty** — Lil Tecca
+**I Had Sex With My Dog** — ChristianAdamG
 
 </div>
 
 | recent | artist |
 |---|---|
+| `I Kind Of Have Feelings For You` | alekirser |
 | `Salty` | Lil Tecca |
 | `TEC` | Lil Tecca |
 | `Fell In Love (with Ken Carson)` | Lil Tecca |
 | `500lbs` | Lil Tecca |
-| `Gist` | Lil Tecca |
 
 <sub>Top artists this month — `Don Toliver` · `Travis Scott` · `Ken Carson` · `Drake` · `Lil Uzi Vert`</sub>
 
