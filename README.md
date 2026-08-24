@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Champion (feat. Travis Scott)** — NAV
+**Run + Ran** — Ken Carson
 
 </div>
 
 | recent | artist |
 |---|---|
+| `Run + Ran` | Ken Carson |
+| `Slap The City (feat. Qendresa)` | Drake |
 | `Champion (feat. Travis Scott)` | NAV |
 | `Champion (feat. Travis Scott)` | NAV |
 | `Out Of Love (feat. Internet Money)` | Lil Tecca |
-| `Solid (feat. Drake)` | Young Stoner Life |
-| `Wants and Needs (feat. Lil Baby)` | Drake |
 
 <sub>Top artists this month — `Don Toliver` · `Travis Scott` · `Ken Carson` · `Drake` · `Lil Uzi Vert`</sub>
 
