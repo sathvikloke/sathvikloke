@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ now playing`
 
-**wedidit (with Playboi Carti)** — Ken Carson
+**No Pole** — Don Toliver
 
 </div>
 
 | recent | artist |
 |---|---|
-| `Real Discussions` | Lil Tecca |
-| `I Had Sex With My Dog` | ChristianAdamG |
-| `I Kind Of Have Feelings For You` | alekirser |
-| `Salty` | Lil Tecca |
-| `TEC` | Lil Tecca |
+| `family ties (with Kendrick Lamar)` | Baby Keem |
+| `National Treasures` | Drake |
+| `Dust` | Drake |
+| `x2` | Lil Uzi Vert |
+| `Bubbly (with Drake & Travis Scott)` | Young Thug |
 
 <sub>Top artists this month — `Don Toliver` · `Travis Scott` · `Ken Carson` · `Drake` · `Lil Uzi Vert`</sub>
 
