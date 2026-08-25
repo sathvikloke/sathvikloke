@@ -130,19 +130,19 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 <div align="center">
 
-### `♫ now playing`
+### `♫ last played`
 
-**Bubbly (with Drake & Travis Scott)** — Young Thug
+**beibs in the trap** — Travis Scott
 
 </div>
 
 | recent | artist |
 |---|---|
+| `beibs in the trap` | Travis Scott |
+| `Bubbly (with Drake & Travis Scott)` | Young Thug |
 | `Leather Coat` | Don Toliver |
 | `Pick Up the Phone (feat. Quavo)` | Young Thug |
 | `Never Recover (Lil Baby & Gunna, Drake)` | Lil Baby |
-| `TEC` | Lil Tecca |
-| `RATHER LIE (with The Weeknd)` | Playboi Carti |
 
 <sub>Top artists this month — `Don Toliver` · `Travis Scott` · `Ken Carson` · `Drake` · `Lil Uzi Vert`</sub>
 
