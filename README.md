@@ -130,19 +130,19 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 <div align="center">
 
-### `♫ last played`
+### `♫ now playing`
 
-**No Pole** — Don Toliver
+**Bubbly (with Drake & Travis Scott)** — Young Thug
 
 </div>
 
 | recent | artist |
 |---|---|
-| `No Pole` | Don Toliver |
-| `family ties (with Kendrick Lamar)` | Baby Keem |
-| `National Treasures` | Drake |
-| `Dust` | Drake |
-| `x2` | Lil Uzi Vert |
+| `Leather Coat` | Don Toliver |
+| `Pick Up the Phone (feat. Quavo)` | Young Thug |
+| `Never Recover (Lil Baby & Gunna, Drake)` | Lil Baby |
+| `TEC` | Lil Tecca |
+| `RATHER LIE (with The Weeknd)` | Playboi Carti |
 
 <sub>Top artists this month — `Don Toliver` · `Travis Scott` · `Ken Carson` · `Drake` · `Lil Uzi Vert`</sub>
 
