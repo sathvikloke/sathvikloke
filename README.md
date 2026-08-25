@@ -130,7 +130,7 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 <div align="center">
 
-### `♫ now playing`
+### `♫ last played`
 
 **No Pole** — Don Toliver
 
@@ -138,11 +138,11 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 | recent | artist |
 |---|---|
+| `No Pole` | Don Toliver |
 | `family ties (with Kendrick Lamar)` | Baby Keem |
 | `National Treasures` | Drake |
 | `Dust` | Drake |
 | `x2` | Lil Uzi Vert |
-| `Bubbly (with Drake & Travis Scott)` | Young Thug |
 
 <sub>Top artists this month — `Don Toliver` · `Travis Scott` · `Ken Carson` · `Drake` · `Lil Uzi Vert`</sub>
 
