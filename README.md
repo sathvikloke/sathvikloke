@@ -132,19 +132,19 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**beibs in the trap** — Travis Scott
+**Hot (Remix) \[feat. Gunna and Travis Scott\]** — Young Thug
 
 </div>
 
 | recent | artist |
 |---|---|
-| `beibs in the trap` | Travis Scott |
-| `Bubbly (with Drake & Travis Scott)` | Young Thug |
-| `Leather Coat` | Don Toliver |
-| `Pick Up the Phone (feat. Quavo)` | Young Thug |
-| `Never Recover (Lil Baby & Gunna, Drake)` | Lil Baby |
+| `Hot (Remix) \[feat. Gunna and Travis Scott\]` | Young Thug |
+| `south to west` | Gunna |
+| `All the Parties (feat. Chief Keef)` | Drake |
+| `Ahí` | KAROL G |
+| `Slap The City (feat. Qendresa)` | Drake |
 
-<sub>Top artists this month — `Don Toliver` · `Ken Carson` · `Travis Scott` · `Drake` · `Lil Uzi Vert`</sub>
+<sub>Top artists this month — `Don Toliver` · `Drake` · `Travis Scott` · `Ken Carson` · `Lil Uzi Vert`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
