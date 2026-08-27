@@ -144,7 +144,7 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 | `Pick Up the Phone (feat. Quavo)` | Young Thug |
 | `Never Recover (Lil Baby & Gunna, Drake)` | Lil Baby |
 
-<sub>Top artists this month — `Don Toliver` · `Travis Scott` · `Ken Carson` · `Drake` · `Lil Uzi Vert`</sub>
+<sub>Top artists this month — `Don Toliver` · `Ken Carson` · `Travis Scott` · `Drake` · `Lil Uzi Vert`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
