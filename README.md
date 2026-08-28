@@ -132,19 +132,19 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Hot (Remix) \[feat. Gunna and Travis Scott\]** — Young Thug
+**Quintana Pt. 2** — Travis Scott
 
 </div>
 
 | recent | artist |
 |---|---|
+| `Quintana Pt. 2` | Travis Scott |
+| `family ties (with Kendrick Lamar)` | Baby Keem |
+| `CAN'T SAY` | Travis Scott |
 | `Hot (Remix) \[feat. Gunna and Travis Scott\]` | Young Thug |
 | `south to west` | Gunna |
-| `All the Parties (feat. Chief Keef)` | Drake |
-| `Ahí` | KAROL G |
-| `Slap The City (feat. Qendresa)` | Drake |
 
-<sub>Top artists this month — `Don Toliver` · `Drake` · `Travis Scott` · `Ken Carson` · `Lil Uzi Vert`</sub>
+<sub>Top artists this month — `Don Toliver` · `Travis Scott` · `Drake` · `Ken Carson` · `Lil Uzi Vert`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
