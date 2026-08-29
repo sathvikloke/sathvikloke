@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Quintana Pt. 2** — Travis Scott
+**Skyfall (feat. Young Thug)** — Travis Scott
 
 </div>
 
 | recent | artist |
 |---|---|
+| `Skyfall (feat. Young Thug)` | Travis Scott |
 | `Quintana Pt. 2` | Travis Scott |
 | `family ties (with Kendrick Lamar)` | Baby Keem |
 | `CAN'T SAY` | Travis Scott |
 | `Hot (Remix) \[feat. Gunna and Travis Scott\]` | Young Thug |
-| `south to west` | Gunna |
 
 <sub>Top artists this month — `Don Toliver` · `Travis Scott` · `Drake` · `Ken Carson` · `Lil Uzi Vert`</sub>
 
