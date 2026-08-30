@@ -144,7 +144,7 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 | `CAN'T SAY` | Travis Scott |
 | `Hot (Remix) \[feat. Gunna and Travis Scott\]` | Young Thug |
 
-<sub>Top artists this month — `Don Toliver` · `Travis Scott` · `Drake` · `Ken Carson` · `Lil Uzi Vert`</sub>
+<sub>Top artists this month — `Don Toliver` · `Travis Scott` · `Drake` · `Lil Uzi Vert` · `Ken Carson`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
