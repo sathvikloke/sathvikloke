@@ -130,19 +130,19 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 <div align="center">
 
-### `♫ now playing`
+### `♫ last played`
 
-**GLOCK** — Don Toliver
+**4X4** — Don Toliver
 
 </div>
 
 | recent | artist |
 |---|---|
+| `4X4` | Don Toliver |
+| `ICE AGE (FEAT. TRAVIS SCOTT)` | Don Toliver |
+| `GLOCK` | Don Toliver |
 | `BANDIT` | Don Toliver |
 | `ATTITUDE (FEAT. CHARLIE WILSON & CASH COBAIN)` | Don Toliver |
-| `BROTHER STONE (FEAT. KODAK BLACK)` | Don Toliver |
-| `TORE UP` | Don Toliver |
-| `KRYPTONITE` | Don Toliver |
 
 <sub>Top artists this month — `Don Toliver` · `Drake` · `Travis Scott` · `Lil Uzi Vert` · `Lil Tecca`</sub>
 
