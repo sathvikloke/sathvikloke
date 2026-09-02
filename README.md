@@ -130,19 +130,19 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 <div align="center">
 
-### `♫ last played`
+### `♫ now playing`
 
-**Sprinter** — Dave
+**GLOCK** — Don Toliver
 
 </div>
 
 | recent | artist |
 |---|---|
-| `Sprinter` | Dave |
-| `HOUSTONFORNICATION` | Travis Scott |
-| `CRUSH (With Travis Scott)` | Playboi Carti |
-| `Walk It Talk It` | Migos |
-| `Never Recover (Lil Baby & Gunna, Drake)` | Lil Baby |
+| `BANDIT` | Don Toliver |
+| `ATTITUDE (FEAT. CHARLIE WILSON & CASH COBAIN)` | Don Toliver |
+| `BROTHER STONE (FEAT. KODAK BLACK)` | Don Toliver |
+| `TORE UP` | Don Toliver |
+| `KRYPTONITE` | Don Toliver |
 
 <sub>Top artists this month — `Don Toliver` · `Drake` · `Travis Scott` · `Lil Uzi Vert` · `Lil Tecca`</sub>
 
