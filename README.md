@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Skyfall (feat. Young Thug)** — Travis Scott
+**Sprinter** — Dave
 
 </div>
 
 | recent | artist |
 |---|---|
-| `Skyfall (feat. Young Thug)` | Travis Scott |
-| `Quintana Pt. 2` | Travis Scott |
-| `family ties (with Kendrick Lamar)` | Baby Keem |
-| `CAN'T SAY` | Travis Scott |
-| `Hot (Remix) \[feat. Gunna and Travis Scott\]` | Young Thug |
+| `Sprinter` | Dave |
+| `HOUSTONFORNICATION` | Travis Scott |
+| `CRUSH (With Travis Scott)` | Playboi Carti |
+| `Walk It Talk It` | Migos |
+| `Never Recover (Lil Baby & Gunna, Drake)` | Lil Baby |
 
 <sub>Top artists this month — `Don Toliver` · `Drake` · `Travis Scott` · `Lil Uzi Vert` · `Lil Tecca`</sub>
 
