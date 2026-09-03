@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Bad and Boujee (feat. Lil Uzi Vert)** — Migos
+**K9 (feat. SahBabii)** — Don Toliver
 
 </div>
 
 | recent | artist |
 |---|---|
+| `K9 (feat. SahBabii)` | Don Toliver |
 | `Bad and Boujee (feat. Lil Uzi Vert)` | Migos |
 | `Mannequin Challenge (feat. Juice WRLD)` | Young Thug |
 | `HOTEL LOBBY (Unc & Phew)` | Quavo |
 | `BACKSTREETS (FEAT. TEEZO TOUCHDOWN)` | Don Toliver |
-| `4X4` | Don Toliver |
 
 <sub>Top artists this month — `Don Toliver` · `Drake` · `Travis Scott` · `Lil Uzi Vert` · `Lil Tecca`</sub>
 
