@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**4X4** — Don Toliver
+**Bad and Boujee (feat. Lil Uzi Vert)** — Migos
 
 </div>
 
 | recent | artist |
 |---|---|
+| `Bad and Boujee (feat. Lil Uzi Vert)` | Migos |
+| `Mannequin Challenge (feat. Juice WRLD)` | Young Thug |
+| `HOTEL LOBBY (Unc & Phew)` | Quavo |
+| `BACKSTREETS (FEAT. TEEZO TOUCHDOWN)` | Don Toliver |
 | `4X4` | Don Toliver |
-| `ICE AGE (FEAT. TRAVIS SCOTT)` | Don Toliver |
-| `GLOCK` | Don Toliver |
-| `BANDIT` | Don Toliver |
-| `ATTITUDE (FEAT. CHARLIE WILSON & CASH COBAIN)` | Don Toliver |
 
 <sub>Top artists this month — `Don Toliver` · `Drake` · `Travis Scott` · `Lil Uzi Vert` · `Lil Tecca`</sub>
 
