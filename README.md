@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Still D.R.E.** — Dr. Dre
+**Burning Bridges** — Drake
 
 </div>
 
 | recent | artist |
 |---|---|
-| `Still D.R.E.` | Dr. Dre |
-| `TIL FURTHER NOTICE (feat. James Blake & 21 Savage)` | Travis Scott |
-| `What You Need` | Don Toliver |
-| `Smoke (feat. HVN & SoFaygo)` | Don Toliver |
-| `Company Pt 2` | Don Toliver |
+| `Burning Bridges` | Drake |
+| `Janice STFU` | Drake |
+| `Family Matters` | Drake |
+| `Family Matters` | Drake |
+| `Go Down (feat. TisaKorean)` | Don Toliver |
 
 <sub>Top artists this month — `Don Toliver` · `Drake` · `Travis Scott` · `Lil Uzi Vert` · `Lil Tecca`</sub>
 
