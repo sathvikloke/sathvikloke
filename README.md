@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**TIL FURTHER NOTICE (feat. James Blake & 21 Savage)** — Travis Scott
+**Still D.R.E.** — Dr. Dre
 
 </div>
 
 | recent | artist |
 |---|---|
+| `Still D.R.E.` | Dr. Dre |
 | `TIL FURTHER NOTICE (feat. James Blake & 21 Savage)` | Travis Scott |
 | `What You Need` | Don Toliver |
 | `Smoke (feat. HVN & SoFaygo)` | Don Toliver |
 | `Company Pt 2` | Don Toliver |
-| `Calling for You (feat. 21 Savage)` | Drake |
 
 <sub>Top artists this month — `Don Toliver` · `Drake` · `Travis Scott` · `Lil Uzi Vert` · `Lil Tecca`</sub>
 
