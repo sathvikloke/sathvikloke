@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Hoe Phase** — Drake
+**CN TOWER** — PARTYNEXTDOOR
 
 </div>
 
 | recent | artist |
 |---|---|
-| `Hoe Phase` | Drake |
-| `Moon Rock` | Huncho Jack |
-| `Lemonade (feat. NAV)` | Internet Money |
-| `Family Matters` | Drake |
-| `WNBA` | Drake |
+| `CN TOWER` | PARTYNEXTDOOR |
+| `wedidit (with Playboi Carti)` | Ken Carson |
+| `i kno'` | Destin Laurel |
+| `Excavator` | Don Toliver |
+| `ATM` | Don Toliver |
 
 <sub>Top artists this month — `Don Toliver` · `Drake` · `Travis Scott` · `Lil Tecca` · `NAV`</sub>
 
