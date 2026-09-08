@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Bad Bad Bad (feat. Lil Baby)** — Young Thug
+**Never Catch Me** — Travis Scott
 
 </div>
 
 | recent | artist |
 |---|---|
-| `Bad Bad Bad (feat. Lil Baby)` | Young Thug |
-| `Out Of Love (feat. Internet Money)` | Lil Tecca |
+| `Never Catch Me` | Travis Scott |
+| `All The Signs (feat. Teezo Touchdown)` | Don Toliver |
+| `K9 (feat. SahBabii)` | Don Toliver |
 | `Hoe Phase` | Drake |
-| `CN TOWER` | PARTYNEXTDOOR |
-| `CN TOWER` | PARTYNEXTDOOR |
+| `Bad Bad Bad (feat. Lil Baby)` | Young Thug |
 
 <sub>Top artists this month — `Don Toliver` · `Drake` · `Travis Scott` · `Lil Tecca` · `NAV`</sub>
 
