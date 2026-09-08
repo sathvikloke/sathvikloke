@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Burning Bridges** — Drake
+**Hoe Phase** — Drake
 
 </div>
 
 | recent | artist |
 |---|---|
-| `Burning Bridges` | Drake |
-| `Janice STFU` | Drake |
+| `Hoe Phase` | Drake |
+| `Moon Rock` | Huncho Jack |
+| `Lemonade (feat. NAV)` | Internet Money |
 | `Family Matters` | Drake |
-| `Family Matters` | Drake |
-| `Go Down (feat. TisaKorean)` | Don Toliver |
+| `WNBA` | Drake |
 
 <sub>Top artists this month — `Don Toliver` · `Drake` · `Travis Scott` · `Lil Tecca` · `NAV`</sub>
 
