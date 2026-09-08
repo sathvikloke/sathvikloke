@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**CN TOWER** — PARTYNEXTDOOR
+**Bad Bad Bad (feat. Lil Baby)** — Young Thug
 
 </div>
 
 | recent | artist |
 |---|---|
+| `Bad Bad Bad (feat. Lil Baby)` | Young Thug |
+| `Out Of Love (feat. Internet Money)` | Lil Tecca |
+| `Hoe Phase` | Drake |
 | `CN TOWER` | PARTYNEXTDOOR |
-| `wedidit (with Playboi Carti)` | Ken Carson |
-| `i kno'` | Destin Laurel |
-| `Excavator` | Don Toliver |
-| `ATM` | Don Toliver |
+| `CN TOWER` | PARTYNEXTDOOR |
 
 <sub>Top artists this month — `Don Toliver` · `Drake` · `Travis Scott` · `Lil Tecca` · `NAV`</sub>
 
