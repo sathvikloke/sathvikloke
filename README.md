@@ -144,7 +144,7 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 | `Hoe Phase` | Drake |
 | `Bad Bad Bad (feat. Lil Baby)` | Young Thug |
 
-<sub>Top artists this month — `Don Toliver` · `Drake` · `Travis Scott` · `Lil Tecca` · `NAV`</sub>
+<sub>Top artists this month — `Don Toliver` · `Drake` · `Travis Scott` · `Lil Tecca` · `Migos`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
