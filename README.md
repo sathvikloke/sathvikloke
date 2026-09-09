@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**way back** — Travis Scott
+**Pornography** — Travis Scott
 
 </div>
 
 | recent | artist |
 |---|---|
+| `Pornography` | Travis Scott |
+| `Quintana` | Travis Scott |
+| `coordinate` | Travis Scott |
 | `way back` | Travis Scott |
 | `the ends` | Travis Scott |
-| `Never Catch Me` | Travis Scott |
-| `All The Signs (feat. Teezo Touchdown)` | Don Toliver |
-| `K9 (feat. SahBabii)` | Don Toliver |
 
 <sub>Top artists this month — `Don Toliver` · `Drake` · `Travis Scott` · `Lil Tecca` · `Migos`</sub>
 
