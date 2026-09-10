@@ -144,7 +144,7 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 | `way back` | Travis Scott |
 | `the ends` | Travis Scott |
 
-<sub>Top artists this month — `Don Toliver` · `Drake` · `Travis Scott` · `Lil Tecca` · `Migos`</sub>
+<sub>Top artists this month — `Drake` · `Don Toliver` · `Travis Scott` · `Lil Tecca` · `Migos`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
