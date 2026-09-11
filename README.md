@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Excavator** — Don Toliver
+**K9 (feat. SahBabii)** — Don Toliver
 
 </div>
 
 | recent | artist |
 |---|---|
+| `K9 (feat. SahBabii)` | Don Toliver |
 | `Excavator` | Don Toliver |
 | `Second Emotion (feat. Travis Scott)` | Justin Bieber |
+| `Bad and Boujee (feat. Lil Uzi Vert)` | Migos |
 | `Pornography` | Travis Scott |
-| `Quintana` | Travis Scott |
-| `coordinate` | Travis Scott |
 
 <sub>Top artists this month — `Drake` · `Don Toliver` · `Travis Scott` · `Lil Tecca` · `Migos`</sub>
 
