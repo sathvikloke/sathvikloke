@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Pornography** — Travis Scott
+**Excavator** — Don Toliver
 
 </div>
 
 | recent | artist |
 |---|---|
+| `Excavator` | Don Toliver |
+| `Second Emotion (feat. Travis Scott)` | Justin Bieber |
 | `Pornography` | Travis Scott |
 | `Quintana` | Travis Scott |
 | `coordinate` | Travis Scott |
-| `way back` | Travis Scott |
-| `the ends` | Travis Scott |
 
 <sub>Top artists this month — `Drake` · `Don Toliver` · `Travis Scott` · `Lil Tecca` · `Migos`</sub>
 
