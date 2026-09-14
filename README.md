@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**K9 (feat. SahBabii)** — Don Toliver
+**Eaters** — Young Stoner Life
 
 </div>
 
 | recent | artist |
 |---|---|
+| `Eaters` | Young Stoner Life |
 | `K9 (feat. SahBabii)` | Don Toliver |
 | `Excavator` | Don Toliver |
 | `Second Emotion (feat. Travis Scott)` | Justin Bieber |
 | `Bad and Boujee (feat. Lil Uzi Vert)` | Migos |
-| `Pornography` | Travis Scott |
 
 <sub>Top artists this month — `Drake` · `Travis Scott` · `Don Toliver` · `Lil Tecca` · `Migos`</sub>
 
