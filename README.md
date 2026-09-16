@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**WNBA** — Drake
+**K9 (feat. SahBabii)** — Don Toliver
 
 </div>
 
 | recent | artist |
 |---|---|
-| `WNBA` | Drake |
-| `Eaters` | Young Stoner Life |
 | `K9 (feat. SahBabii)` | Don Toliver |
-| `Excavator` | Don Toliver |
-| `Second Emotion (feat. Travis Scott)` | Justin Bieber |
+| `Leather Coat` | Don Toliver |
+| `Cinderella` | Future |
+| `Make Them Know` | Drake |
+| `Plot Twist` | Drake |
 
 <sub>Top artists this month — `Drake` · `Travis Scott` · `Don Toliver` · `Lil Tecca` · `Migos`</sub>
 
