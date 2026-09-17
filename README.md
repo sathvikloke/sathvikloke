@@ -130,21 +130,21 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 <div align="center">
 
-### `♫ last played`
+### `♫ now playing`
 
-**K9 (feat. SahBabii)** — Don Toliver
+**Lost Me** — Givēon
 
 </div>
 
 | recent | artist |
 |---|---|
-| `K9 (feat. SahBabii)` | Don Toliver |
-| `Leather Coat` | Don Toliver |
-| `Cinderella` | Future |
-| `Make Them Know` | Drake |
-| `Plot Twist` | Drake |
+| `Valentina` | Daniel Caesar |
+| `Stars Align (with Drake)` | Majid Jordan |
+| `Sideways` | Gordo |
+| `Right Here` | Justin Bieber |
+| `luther (with SZA)` | Kendrick Lamar |
 
-<sub>Top artists this month — `Drake` · `Travis Scott` · `Don Toliver` · `Lil Tecca` · `Migos`</sub>
+<sub>Top artists this month — `Drake` · `Travis Scott` · `Don Toliver` · `Lil Tecca` · `Young Thug`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
