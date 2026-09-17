@@ -130,19 +130,19 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 <div align="center">
 
-### `♫ now playing`
+### `♫ last played`
 
-**Lost Me** — Givēon
+**No Pressure** — Justin Bieber
 
 </div>
 
 | recent | artist |
 |---|---|
+| `No Pressure` | Justin Bieber |
+| `Eve` | Avenoir |
+| `Lost Me` | Givēon |
 | `Valentina` | Daniel Caesar |
 | `Stars Align (with Drake)` | Majid Jordan |
-| `Sideways` | Gordo |
-| `Right Here` | Justin Bieber |
-| `luther (with SZA)` | Kendrick Lamar |
 
 <sub>Top artists this month — `Drake` · `Travis Scott` · `Don Toliver` · `Lil Tecca` · `Young Thug`</sub>
 
