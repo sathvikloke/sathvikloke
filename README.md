@@ -144,7 +144,7 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 | `Valentina` | Daniel Caesar |
 | `Stars Align (with Drake)` | Majid Jordan |
 
-<sub>Top artists this month — `Drake` · `Travis Scott` · `Don Toliver` · `Lil Tecca` · `Young Thug`</sub>
+<sub>Top artists this month — `Drake` · `Don Toliver` · `Travis Scott` · `Lil Tecca` · `Young Thug`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
