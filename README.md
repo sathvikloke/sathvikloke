@@ -130,19 +130,19 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 <div align="center">
 
-### `♫ last played`
+### `♫ now playing`
 
-**No Pressure** — Justin Bieber
+**OUTERSPACE (feat. Baby Keem)** — Don Toliver
 
 </div>
 
 | recent | artist |
 |---|---|
-| `No Pressure` | Justin Bieber |
-| `Eve` | Avenoir |
-| `Lost Me` | Givēon |
-| `Valentina` | Daniel Caesar |
-| `Stars Align (with Drake)` | Majid Jordan |
+| `Whisper My Name` | Drake |
+| `Time Heals All` | Don Toliver |
+| `Go Down (feat. TisaKorean)` | Don Toliver |
+| `Leather Coat` | Don Toliver |
+| `E85` | Don Toliver |
 
 <sub>Top artists this month — `Drake` · `Don Toliver` · `Travis Scott` · `Lil Tecca` · `Young Thug`</sub>
 
