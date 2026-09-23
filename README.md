@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**EMOTIONLESS** — Nilson's
+**Dubai Shit** — Huncho Jack
 
 </div>
 
 | recent | artist |
 |---|---|
-| `EMOTIONLESS` | Nilson's |
-| `Home (Metro Boomin & Don Toliver, Lil Uzi Vert)` | Metro Boomin |
-| `Favour` | Avenoir |
-| `CALL BACK` | Don Toliver |
-| `Tiramisu` | Don Toliver |
+| `Dubai Shit` | Huncho Jack |
+| `Whisper My Name` | Drake |
+| `Whisper My Name` | Drake |
+| `HOTEL LOBBY (Unc & Phew)` | Quavo |
+| `Without a Warning` | The Weeknd |
 
 <sub>Top artists this month — `Don Toliver` · `Drake` · `Travis Scott` · `Lil Tecca` · `Young Thug`</sub>
 
