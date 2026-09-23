@@ -132,19 +132,19 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Dubai Shit** — Huncho Jack
+**First Person Shooter (feat. J. Cole)** — Drake
 
 </div>
 
 | recent | artist |
 |---|---|
+| `First Person Shooter (feat. J. Cole)` | Drake |
 | `Dubai Shit` | Huncho Jack |
 | `Whisper My Name` | Drake |
 | `Whisper My Name` | Drake |
 | `HOTEL LOBBY (Unc & Phew)` | Quavo |
-| `Without a Warning` | The Weeknd |
 
-<sub>Top artists this month — `Don Toliver` · `Drake` · `Travis Scott` · `Lil Tecca` · `Young Thug`</sub>
+<sub>Top artists this month — `Don Toliver` · `Drake` · `Travis Scott` · `Young Thug` · `Lil Tecca`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
