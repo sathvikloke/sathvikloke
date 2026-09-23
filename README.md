@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Smoke (feat. HVN & SoFaygo)** — Don Toliver
+**Hold On** — The Internet
 
 </div>
 
 | recent | artist |
 |---|---|
+| `Hold On` | The Internet |
+| `OUTERSPACE (feat. Baby Keem)` | Don Toliver |
 | `Smoke (feat. HVN & SoFaygo)` | Don Toliver |
 | `5X` | Don Toliver |
 | `Way Bigger` | Don Toliver |
-| `5X` | Don Toliver |
-| `XSCAPE` | Don Toliver |
 
 <sub>Top artists this month — `Don Toliver` · `Drake` · `Travis Scott` · `Lil Tecca` · `Young Thug`</sub>
 
