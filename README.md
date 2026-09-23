@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Hold On** — The Internet
+**EMOTIONLESS** — Nilson's
 
 </div>
 
 | recent | artist |
 |---|---|
-| `Hold On` | The Internet |
-| `OUTERSPACE (feat. Baby Keem)` | Don Toliver |
-| `Smoke (feat. HVN & SoFaygo)` | Don Toliver |
-| `5X` | Don Toliver |
-| `Way Bigger` | Don Toliver |
+| `EMOTIONLESS` | Nilson's |
+| `Home (Metro Boomin & Don Toliver, Lil Uzi Vert)` | Metro Boomin |
+| `Favour` | Avenoir |
+| `CALL BACK` | Don Toliver |
+| `Tiramisu` | Don Toliver |
 
 <sub>Top artists this month — `Don Toliver` · `Drake` · `Travis Scott` · `Lil Tecca` · `Young Thug`</sub>
 
