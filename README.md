@@ -144,7 +144,7 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 | `Whisper My Name` | Drake |
 | `HOTEL LOBBY (Unc & Phew)` | Quavo |
 
-<sub>Top artists this month — `Don Toliver` · `Drake` · `Travis Scott` · `Young Thug` · `Lil Tecca`</sub>
+<sub>Top artists this month — `Don Toliver` · `Drake` · `Travis Scott` · `Migos` · `Young Thug`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
