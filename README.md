@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**First Person Shooter (feat. J. Cole)** — Drake
+**family ties (with Kendrick Lamar)** — Baby Keem
 
 </div>
 
 | recent | artist |
 |---|---|
+| `family ties (with Kendrick Lamar)` | Baby Keem |
+| `Whisper My Name` | Drake |
 | `First Person Shooter (feat. J. Cole)` | Drake |
 | `Dubai Shit` | Huncho Jack |
 | `Whisper My Name` | Drake |
-| `Whisper My Name` | Drake |
-| `HOTEL LOBBY (Unc & Phew)` | Quavo |
 
 <sub>Top artists this month — `Don Toliver` · `Drake` · `Travis Scott` · `Migos` · `Playboi Carti`</sub>
 
