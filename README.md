@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**family ties (with Kendrick Lamar)** — Baby Keem
+**Modern Slavery** — Huncho Jack
 
 </div>
 
 | recent | artist |
 |---|---|
-| `family ties (with Kendrick Lamar)` | Baby Keem |
-| `Whisper My Name` | Drake |
-| `First Person Shooter (feat. J. Cole)` | Drake |
-| `Dubai Shit` | Huncho Jack |
-| `Whisper My Name` | Drake |
+| `Modern Slavery` | Huncho Jack |
+| `Bad and Boujee (feat. Lil Uzi Vert)` | Migos |
+| `luh birk` | Yeat |
+| `Earnëd it` | Yeat |
+| `Earnëd it` | Yeat |
 
 <sub>Top artists this month — `Don Toliver` · `Drake` · `Travis Scott` · `Migos` · `Playboi Carti`</sub>
 
