@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Modern Slavery** — Huncho Jack
+**Dum, Dumb, and Dumber (with Young Thug & Future)** — Lil Baby
 
 </div>
 
 | recent | artist |
 |---|---|
-| `Modern Slavery` | Huncho Jack |
-| `Bad and Boujee (feat. Lil Uzi Vert)` | Migos |
-| `luh birk` | Yeat |
-| `Earnëd it` | Yeat |
-| `Earnëd it` | Yeat |
+| `Dum, Dumb, and Dumber (with Young Thug & Future)` | Lil Baby |
+| `gynecologist` | Ken Carson |
+| `Chemistry` | Lil Tecca |
+| `E85` | Don Toliver |
+| `Heavy stunts (with Don Toliver)` | Yeat |
 
 <sub>Top artists this month — `Don Toliver` · `Drake` · `Travis Scott` · `Migos` · `Playboi Carti`</sub>
 
