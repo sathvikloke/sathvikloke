@@ -132,19 +132,19 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Dum, Dumb, and Dumber (with Young Thug & Future)** — Lil Baby
+**4X4** — Don Toliver
 
 </div>
 
 | recent | artist |
 |---|---|
-| `Dum, Dumb, and Dumber (with Young Thug & Future)` | Lil Baby |
-| `gynecologist` | Ken Carson |
+| `4X4` | Don Toliver |
+| `COCOON` | Yeat |
+| `Dolly (with Lil Uzi Vert)` | Lil Tecca |
 | `Chemistry` | Lil Tecca |
-| `E85` | Don Toliver |
-| `Heavy stunts (with Don Toliver)` | Yeat |
+| `Cannonball (feat. Don Toliver)` | Lithe |
 
-<sub>Top artists this month — `Don Toliver` · `Drake` · `Travis Scott` · `Migos` · `Playboi Carti`</sub>
+<sub>Top artists this month — `Don Toliver` · `Drake` · `Travis Scott` · `Migos` · `Lil Tecca`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
