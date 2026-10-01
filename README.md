@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**4X4** — Don Toliver
+**WNBA** — Drake
 
 </div>
 
 | recent | artist |
 |---|---|
-| `4X4` | Don Toliver |
-| `COCOON` | Yeat |
-| `Dolly (with Lil Uzi Vert)` | Lil Tecca |
-| `Chemistry` | Lil Tecca |
-| `Cannonball (feat. Don Toliver)` | Lithe |
+| `WNBA` | Drake |
+| `Bon Appétit` | Katy Perry |
+| `Dum, Dumb, and Dumber (with Young Thug & Future)` | Lil Baby |
+| `Earnëd it` | Yeat |
+| `No Role Modelz` | J. Cole |
 
 <sub>Top artists this month — `Don Toliver` · `Drake` · `Travis Scott` · `Migos` · `Lil Tecca`</sub>
 
