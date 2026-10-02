@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Chemistry** — Lil Tecca
+**Classic PT2** — Drake
 
 </div>
 
 | recent | artist |
 |---|---|
-| `Chemistry` | Lil Tecca |
-| `TMU` | Don Toliver |
-| `opposite` | Don Toliver |
-| `Gemstone` | Don Toliver |
-| `Excavator` | Don Toliver |
+| `Classic PT2` | Drake |
+| `WNBA` | Drake |
+| `Cold Shoulder (Feat. Don Toliver & Yebba)` | Drake |
+| `QUEBEC` | Drake |
+| `Solar Eclipse (feat. Don Toliver)` | Drake |
 
 <sub>Top artists this month — `Don Toliver` · `Drake` · `Travis Scott` · `Lil Tecca` · `Migos`</sub>
 
