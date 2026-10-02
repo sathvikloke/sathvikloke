@@ -139,12 +139,12 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 | recent | artist |
 |---|---|
 | `Classic PT2` | Drake |
-| `WNBA` | Drake |
+| `Classic PT2` | Drake |
+| `Classic PT2` | Drake |
 | `Cold Shoulder (Feat. Don Toliver & Yebba)` | Drake |
-| `QUEBEC` | Drake |
-| `Solar Eclipse (feat. Don Toliver)` | Drake |
+| `Classic PT2` | Drake |
 
-<sub>Top artists this month — `Don Toliver` · `Drake` · `Travis Scott` · `Lil Tecca` · `Migos`</sub>
+<sub>Top artists this month — `Don Toliver` · `Drake` · `Travis Scott` · `Lil Tecca` · `Yeat`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
