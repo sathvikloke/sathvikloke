@@ -132,19 +132,19 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**WNBA** — Drake
+**Chemistry** — Lil Tecca
 
 </div>
 
 | recent | artist |
 |---|---|
-| `WNBA` | Drake |
-| `Bon Appétit` | Katy Perry |
-| `Dum, Dumb, and Dumber (with Young Thug & Future)` | Lil Baby |
-| `Earnëd it` | Yeat |
-| `No Role Modelz` | J. Cole |
+| `Chemistry` | Lil Tecca |
+| `TMU` | Don Toliver |
+| `opposite` | Don Toliver |
+| `Gemstone` | Don Toliver |
+| `Excavator` | Don Toliver |
 
-<sub>Top artists this month — `Don Toliver` · `Drake` · `Travis Scott` · `Migos` · `Lil Tecca`</sub>
+<sub>Top artists this month — `Don Toliver` · `Drake` · `Travis Scott` · `Lil Tecca` · `Migos`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
