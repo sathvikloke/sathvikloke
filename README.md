@@ -132,19 +132,19 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Classic PT2** — Drake
+**Pipe Down (feat. Travis Scott)** — Young Thug
 
 </div>
 
 | recent | artist |
 |---|---|
+| `Pipe Down (feat. Travis Scott)` | Young Thug |
+| `Out Of Love (feat. Internet Money)` | Lil Tecca |
+| `Dubai Shit` | Huncho Jack |
 | `Classic PT2` | Drake |
-| `Classic PT2` | Drake |
-| `Classic PT2` | Drake |
-| `Cold Shoulder (Feat. Don Toliver & Yebba)` | Drake |
-| `Classic PT2` | Drake |
+| `WNBA` | Drake |
 
-<sub>Top artists this month — `Don Toliver` · `Drake` · `Travis Scott` · `Lil Tecca` · `Yeat`</sub>
+<sub>Top artists this month — `Drake` · `Don Toliver` · `Travis Scott` · `Lil Tecca` · `Yeat`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
