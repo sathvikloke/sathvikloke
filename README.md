@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Pipe Down (feat. Travis Scott)** — Young Thug
+**WE NEED ALL DA VIBES (with Young Thug & Ty Dolla $ign)** — Playboi Carti
 
 </div>
 
 | recent | artist |
 |---|---|
+| `WE NEED ALL DA VIBES (with Young Thug & Ty Dolla $ign)` | Playboi Carti |
+| `WHERE WAS YOU` | Travis Scott |
 | `Pipe Down (feat. Travis Scott)` | Young Thug |
 | `Out Of Love (feat. Internet Money)` | Lil Tecca |
 | `Dubai Shit` | Huncho Jack |
-| `Classic PT2` | Drake |
-| `WNBA` | Drake |
 
 <sub>Top artists this month — `Drake` · `Don Toliver` · `Travis Scott` · `Lil Tecca` · `Yeat`</sub>
 
