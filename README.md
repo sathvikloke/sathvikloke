@@ -144,7 +144,7 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 | `Out Of Love (feat. Internet Money)` | Lil Tecca |
 | `Dubai Shit` | Huncho Jack |
 
-<sub>Top artists this month — `Drake` · `Don Toliver` · `Travis Scott` · `Lil Tecca` · `Yeat`</sub>
+<sub>Top artists this month — `Drake` · `Don Toliver` · `Lil Tecca` · `Travis Scott` · `Yeat`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
