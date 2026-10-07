@@ -132,19 +132,19 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**WE NEED ALL DA VIBES (with Young Thug & Ty Dolla $ign)** — Playboi Carti
+**Spin Bout U** — Drake
 
 </div>
 
 | recent | artist |
 |---|---|
-| `WE NEED ALL DA VIBES (with Young Thug & Ty Dolla $ign)` | Playboi Carti |
-| `WHERE WAS YOU` | Travis Scott |
-| `Pipe Down (feat. Travis Scott)` | Young Thug |
-| `Out Of Love (feat. Internet Money)` | Lil Tecca |
-| `Dubai Shit` | Huncho Jack |
+| `Spin Bout U` | Drake |
+| `hey now (feat. Dody6)` | Kendrick Lamar |
+| `Texas Cyclone` | Sauce Walka |
+| `BROTHER STONE (FEAT. KODAK BLACK)` | Don Toliver |
+| `No Pole` | Don Toliver |
 
-<sub>Top artists this month — `Drake` · `Don Toliver` · `Lil Tecca` · `Travis Scott` · `Yeat`</sub>
+<sub>Top artists this month — `Drake` · `Don Toliver` · `Lil Baby` · `Lil Tecca` · `Travis Scott`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
