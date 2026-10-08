@@ -132,19 +132,19 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Pipe Down (feat. Travis Scott)** — Young Thug
+**lost souls (with Brent Faiyaz)** — Baby Keem
 
 </div>
 
 | recent | artist |
 |---|---|
+| `lost souls (with Brent Faiyaz)` | Baby Keem |
+| `16` | Baby Keem |
+| `durag activity (with Travis Scott)` | Baby Keem |
+| `WE NEED ALL DA VIBES (with Young Thug & Ty Dolla $ign)` | Playboi Carti |
 | `Pipe Down (feat. Travis Scott)` | Young Thug |
-| `ICE AGE (FEAT. TRAVIS SCOTT)` | Don Toliver |
-| `I Can Tell` | Travis Scott |
-| `Moon Rock` | Huncho Jack |
-| `Quintana (feat. Wale)` | Travis Scott |
 
-<sub>Top artists this month — `Drake` · `Don Toliver` · `Travis Scott` · `Lil Baby` · `Lil Tecca`</sub>
+<sub>Top artists this month — `Don Toliver` · `Drake` · `Travis Scott` · `Baby Keem` · `Lil Baby`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
