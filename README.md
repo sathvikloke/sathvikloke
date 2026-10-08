@@ -132,19 +132,19 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Spin Bout U** — Drake
+**Pipe Down (feat. Travis Scott)** — Young Thug
 
 </div>
 
 | recent | artist |
 |---|---|
-| `Spin Bout U` | Drake |
-| `hey now (feat. Dody6)` | Kendrick Lamar |
-| `Texas Cyclone` | Sauce Walka |
-| `BROTHER STONE (FEAT. KODAK BLACK)` | Don Toliver |
-| `No Pole` | Don Toliver |
+| `Pipe Down (feat. Travis Scott)` | Young Thug |
+| `ICE AGE (FEAT. TRAVIS SCOTT)` | Don Toliver |
+| `I Can Tell` | Travis Scott |
+| `Moon Rock` | Huncho Jack |
+| `Quintana (feat. Wale)` | Travis Scott |
 
-<sub>Top artists this month — `Drake` · `Don Toliver` · `Lil Baby` · `Lil Tecca` · `Travis Scott`</sub>
+<sub>Top artists this month — `Drake` · `Don Toliver` · `Travis Scott` · `Lil Baby` · `Lil Tecca`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
