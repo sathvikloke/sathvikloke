@@ -132,19 +132,19 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**lost souls (with Brent Faiyaz)** — Baby Keem
+**PBT** — Travis Scott
 
 </div>
 
 | recent | artist |
 |---|---|
-| `lost souls (with Brent Faiyaz)` | Baby Keem |
-| `16` | Baby Keem |
-| `durag activity (with Travis Scott)` | Baby Keem |
-| `WE NEED ALL DA VIBES (with Young Thug & Ty Dolla $ign)` | Playboi Carti |
-| `Pipe Down (feat. Travis Scott)` | Young Thug |
+| `PBT` | Travis Scott |
+| `CAN'T SAY` | Travis Scott |
+| `Drugs You Should Try It` | Travis Scott |
+| `On Your Own` | Lil Tecca |
+| `Dum, Dumb, and Dumber (with Young Thug & Future)` | Lil Baby |
 
-<sub>Top artists this month — `Don Toliver` · `Drake` · `Travis Scott` · `Baby Keem` · `Lil Baby`</sub>
+<sub>Top artists this month — `Don Toliver` · `Drake` · `Travis Scott` · `Baby Keem` · `Lil Tecca`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
