@@ -132,16 +132,16 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**PBT** — Travis Scott
+**wedidit (with Playboi Carti)** — Ken Carson
 
 </div>
 
 | recent | artist |
 |---|---|
-| `PBT` | Travis Scott |
-| `CAN'T SAY` | Travis Scott |
-| `Drugs You Should Try It` | Travis Scott |
-| `On Your Own` | Lil Tecca |
+| `wedidit (with Playboi Carti)` | Ken Carson |
+| `GBP (feat. 21 Savage)` | Central Cee |
+| `MOP (feat. Young Thug)` | Gunna |
+| `poochie gown` | Gunna |
 | `Dum, Dumb, and Dumber (with Young Thug & Future)` | Lil Baby |
 
 <sub>Top artists this month — `Don Toliver` · `Drake` · `Travis Scott` · `Baby Keem` · `Lil Tecca`</sub>
