@@ -132,19 +132,19 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**wedidit (with Playboi Carti)** — Ken Carson
+**Favorite Lie** — Lil Tecca
 
 </div>
 
 | recent | artist |
 |---|---|
-| `wedidit (with Playboi Carti)` | Ken Carson |
-| `GBP (feat. 21 Savage)` | Central Cee |
-| `MOP (feat. Young Thug)` | Gunna |
-| `poochie gown` | Gunna |
-| `Dum, Dumb, and Dumber (with Young Thug & Future)` | Lil Baby |
+| `Favorite Lie` | Lil Tecca |
+| `The Truth` | Lil Tecca |
+| `Half The Plot` | Lil Tecca |
+| `Boys Don’t Cry` | Lil Tecca |
+| `Don't Play (feat. The 1975 & Big Sean)` | Travis Scott |
 
-<sub>Top artists this month — `Don Toliver` · `Drake` · `Travis Scott` · `Baby Keem` · `Lil Tecca`</sub>
+<sub>Top artists this month — `Don Toliver` · `Drake` · `Travis Scott` · `Lil Tecca` · `Baby Keem`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
