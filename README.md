@@ -144,7 +144,7 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 | `Boys Don’t Cry` | Lil Tecca |
 | `Don't Play (feat. The 1975 & Big Sean)` | Travis Scott |
 
-<sub>Top artists this month — `Don Toliver` · `Drake` · `Travis Scott` · `Lil Tecca` · `Baby Keem`</sub>
+<sub>Top artists this month — `Don Toliver` · `Drake` · `Lil Tecca` · `Travis Scott` · `Baby Keem`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
