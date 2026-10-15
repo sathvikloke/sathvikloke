@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Favorite Lie** — Lil Tecca
+**Claustrophobic** — Future
 
 </div>
 
 | recent | artist |
 |---|---|
+| `Claustrophobic` | Future |
+| `Erase Your Social` | Lil Uzi Vert |
+| `Minute` | NAV |
+| `MY EYES` | Travis Scott |
 | `Favorite Lie` | Lil Tecca |
-| `The Truth` | Lil Tecca |
-| `Half The Plot` | Lil Tecca |
-| `Boys Don’t Cry` | Lil Tecca |
-| `Don't Play (feat. The 1975 & Big Sean)` | Travis Scott |
 
 <sub>Top artists this month — `Don Toliver` · `Drake` · `Lil Tecca` · `Travis Scott` · `Baby Keem`</sub>
 
