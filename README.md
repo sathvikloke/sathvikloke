@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Claustrophobic** — Future
+**can't leave without it** — 21 Savage
 
 </div>
 
 | recent | artist |
 |---|---|
-| `Claustrophobic` | Future |
-| `Erase Your Social` | Lil Uzi Vert |
-| `Minute` | NAV |
-| `MY EYES` | Travis Scott |
-| `Favorite Lie` | Lil Tecca |
+| `can't leave without it` | 21 Savage |
+| `ball w/o you` | 21 Savage |
+| `Slidin` | 21 Savage |
+| `Glock In My Lap` | 21 Savage |
+| `Runnin` | 21 Savage |
 
 <sub>Top artists this month — `Don Toliver` · `Drake` · `Lil Tecca` · `Travis Scott` · `Baby Keem`</sub>
 
