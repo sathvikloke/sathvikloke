@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**can't leave without it** — 21 Savage
+**Number 2** — Lil Tecca
 
 </div>
 
 | recent | artist |
 |---|---|
-| `can't leave without it` | 21 Savage |
-| `ball w/o you` | 21 Savage |
-| `Slidin` | 21 Savage |
-| `Glock In My Lap` | 21 Savage |
-| `Runnin` | 21 Savage |
+| `Number 2` | Lil Tecca |
+| `24HRS` | Lil Tecca |
+| `VOGUE` | Lil Tecca |
+| `Fell in Luv (feat. Bryson Tiller)` | Playboi Carti |
+| `Need It (feat. YoungBoy Never Broke Again)` | Migos |
 
 <sub>Top artists this month — `Don Toliver` · `Drake` · `Lil Tecca` · `Travis Scott` · `Baby Keem`</sub>
 
