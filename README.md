@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Up to Something (feat. Travis Scott & Young Thug)** — Metro Boomin
+**STARGAZING** — Travis Scott
 
 </div>
 
 | recent | artist |
 |---|---|
-| `Up to Something (feat. Travis Scott & Young Thug)` | Metro Boomin |
-| `Switching Lanes (feat. Playboi Carti)` | Pi’erre Bourne |
-| `Run + Ran` | Ken Carson |
-| `Minute` | NAV |
-| `hooligan` | Baby Keem |
+| `STARGAZING` | Travis Scott |
+| `COMË N GO` | Yeat |
+| `Sundress` | A$AP Rocky |
+| `FOMDJ` | Playboi Carti |
+| `POP` | Lil Uzi Vert |
 
 <sub>Top artists this month — `Don Toliver` · `Drake` · `Lil Tecca` · `Baby Keem` · `Travis Scott`</sub>
 
