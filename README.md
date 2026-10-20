@@ -132,19 +132,19 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Number 2** — Lil Tecca
+**Up to Something (feat. Travis Scott & Young Thug)** — Metro Boomin
 
 </div>
 
 | recent | artist |
 |---|---|
-| `Number 2` | Lil Tecca |
-| `24HRS` | Lil Tecca |
-| `VOGUE` | Lil Tecca |
-| `Fell in Luv (feat. Bryson Tiller)` | Playboi Carti |
-| `Need It (feat. YoungBoy Never Broke Again)` | Migos |
+| `Up to Something (feat. Travis Scott & Young Thug)` | Metro Boomin |
+| `Switching Lanes (feat. Playboi Carti)` | Pi’erre Bourne |
+| `Run + Ran` | Ken Carson |
+| `Minute` | NAV |
+| `hooligan` | Baby Keem |
 
-<sub>Top artists this month — `Don Toliver` · `Drake` · `Lil Tecca` · `Travis Scott` · `Baby Keem`</sub>
+<sub>Top artists this month — `Don Toliver` · `Drake` · `Lil Tecca` · `Baby Keem` · `Travis Scott`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
