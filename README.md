@@ -132,19 +132,19 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Dubai Shit** — Huncho Jack
+**hooligan** — Baby Keem
 
 </div>
 
 | recent | artist |
 |---|---|
-| `Dubai Shit` | Huncho Jack |
-| `FRANCHISE (feat. Young Thug & M.I.A.)` | Travis Scott |
-| `STARGAZING` | Travis Scott |
-| `COMË N GO` | Yeat |
-| `Sundress` | A$AP Rocky |
+| `hooligan` | Baby Keem |
+| `FAMJAM4000` | Jordan Ward |
+| `16` | Baby Keem |
+| `Off the Grid` | Kanye West |
+| `killstreaks (with Don Toliver & PinkPantheress)` | Baby Keem |
 
-<sub>Top artists this month — `Don Toliver` · `Drake` · `Lil Tecca` · `Baby Keem` · `Travis Scott`</sub>
+<sub>Top artists this month — `Don Toliver` · `Drake` · `Baby Keem` · `Lil Tecca` · `Travis Scott`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
