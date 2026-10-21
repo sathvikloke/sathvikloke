@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**STARGAZING** — Travis Scott
+**Dubai Shit** — Huncho Jack
 
 </div>
 
 | recent | artist |
 |---|---|
+| `Dubai Shit` | Huncho Jack |
+| `FRANCHISE (feat. Young Thug & M.I.A.)` | Travis Scott |
 | `STARGAZING` | Travis Scott |
 | `COMË N GO` | Yeat |
 | `Sundress` | A$AP Rocky |
-| `FOMDJ` | Playboi Carti |
-| `POP` | Lil Uzi Vert |
 
 <sub>Top artists this month — `Don Toliver` · `Drake` · `Lil Tecca` · `Baby Keem` · `Travis Scott`</sub>
 
