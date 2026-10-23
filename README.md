@@ -132,19 +132,19 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**hooligan** — Baby Keem
+**SOLO STEPPIN CRETE BOY** — Lil Yachty
 
 </div>
 
 | recent | artist |
 |---|---|
-| `hooligan` | Baby Keem |
-| `FAMJAM4000` | Jordan Ward |
-| `16` | Baby Keem |
-| `Off the Grid` | Kanye West |
-| `killstreaks (with Don Toliver & PinkPantheress)` | Baby Keem |
+| `SOLO STEPPIN CRETE BOY` | Lil Yachty |
+| `SOLO STEPPIN CRETE BOY` | Lil Yachty |
+| `SOLO STEPPIN CRETE BOY` | Lil Yachty |
+| `Another Late Night (feat. Lil Yachty)` | Drake |
+| `Make No Sense` | YoungBoy Never Broke Again |
 
-<sub>Top artists this month — `Drake` · `Don Toliver` · `Baby Keem` · `Lil Tecca` · `Travis Scott`</sub>
+<sub>Top artists this month — `Drake` · `Baby Keem` · `Don Toliver` · `Lil Tecca` · `Travis Scott`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
