@@ -130,7 +130,7 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 <div align="center">
 
-### `♫ now playing`
+### `♫ last played`
 
 **Bank Account** — 21 Savage
 
@@ -142,9 +142,9 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 | `Bank Account` | 21 Savage |
 | `Bank Account` | 21 Savage |
 | `Bank Account` | 21 Savage |
-| `lost souls (with Brent Faiyaz)` | Baby Keem |
+| `Bank Account` | 21 Savage |
 
-<sub>Top artists this month — `Drake` · `Baby Keem` · `Don Toliver` · `21 Savage` · `Lil Tecca`</sub>
+<sub>Top artists this month — `Drake` · `Baby Keem` · `21 Savage` · `Don Toliver` · `Lil Tecca`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
