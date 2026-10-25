@@ -130,21 +130,21 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 <div align="center">
 
-### `♫ last played`
+### `♫ now playing`
 
-**SOLO STEPPIN CRETE BOY** — Lil Yachty
+**Bank Account** — 21 Savage
 
 </div>
 
 | recent | artist |
 |---|---|
-| `SOLO STEPPIN CRETE BOY` | Lil Yachty |
-| `SOLO STEPPIN CRETE BOY` | Lil Yachty |
-| `SOLO STEPPIN CRETE BOY` | Lil Yachty |
-| `Another Late Night (feat. Lil Yachty)` | Drake |
-| `Make No Sense` | YoungBoy Never Broke Again |
+| `Bank Account` | 21 Savage |
+| `Bank Account` | 21 Savage |
+| `Bank Account` | 21 Savage |
+| `Bank Account` | 21 Savage |
+| `lost souls (with Brent Faiyaz)` | Baby Keem |
 
-<sub>Top artists this month — `Drake` · `Baby Keem` · `Don Toliver` · `Lil Tecca` · `Travis Scott`</sub>
+<sub>Top artists this month — `Drake` · `Baby Keem` · `Don Toliver` · `21 Savage` · `Lil Tecca`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
