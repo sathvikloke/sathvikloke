@@ -141,10 +141,10 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 | `Bank Account` | 21 Savage |
 | `Bank Account` | 21 Savage |
 | `Bank Account` | 21 Savage |
-| `Praise God` | Kanye West |
-| `Rolex` | Ayo & Teo |
+| `Bank Account` | 21 Savage |
+| `Bank Account` | 21 Savage |
 
-<sub>Top artists this month — `Drake` · `Baby Keem` · `21 Savage` · `Don Toliver` · `Travis Scott`</sub>
+<sub>Top artists this month — `Drake` · `21 Savage` · `Baby Keem` · `Don Toliver` · `Travis Scott`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
