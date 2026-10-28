@@ -132,19 +132,19 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Bank Account** — 21 Savage
+**T-Shirt** — Migos
 
 </div>
 
 | recent | artist |
 |---|---|
-| `Bank Account` | 21 Savage |
-| `can't leave without it` | 21 Savage |
-| `BUTTERFLY EFFECT` | Travis Scott |
-| `Bank Account` | 21 Savage |
-| `Off the Grid` | Kanye West |
+| `T-Shirt` | Migos |
+| `T-Shirt` | Migos |
+| `out for the night` | 21 Savage |
+| `Yea Yea Yea (feat. 21 Savage)` | Mookie Mardi Gra |
+| `4L` | 21 Savage |
 
-<sub>Top artists this month — `Drake` · `21 Savage` · `Baby Keem` · `Travis Scott` · `Don Toliver`</sub>
+<sub>Top artists this month — `21 Savage` · `Drake` · `Baby Keem` · `Travis Scott` · `Lil Tecca`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
