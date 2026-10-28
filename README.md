@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**can't leave without it** — 21 Savage
+**Bank Account** — 21 Savage
 
 </div>
 
 | recent | artist |
 |---|---|
+| `Bank Account` | 21 Savage |
 | `can't leave without it` | 21 Savage |
 | `BUTTERFLY EFFECT` | Travis Scott |
 | `Bank Account` | 21 Savage |
 | `Off the Grid` | Kanye West |
-| `Bank Account` | 21 Savage |
 
 <sub>Top artists this month — `Drake` · `21 Savage` · `Baby Keem` · `Travis Scott` · `Don Toliver`</sub>
 
