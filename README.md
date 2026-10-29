@@ -130,19 +130,19 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 <div align="center">
 
-### `♫ last played`
+### `♫ now playing`
 
-**T-Shirt** — Migos
+**Rara** — Travis Cactus
 
 </div>
 
 | recent | artist |
 |---|---|
-| `T-Shirt` | Migos |
-| `T-Shirt` | Migos |
-| `out for the night` | 21 Savage |
-| `Yea Yea Yea (feat. 21 Savage)` | Mookie Mardi Gra |
-| `4L` | 21 Savage |
+| `Rara` | Travis Cactus |
+| `Rara` | Travis Cactus |
+| `Rara` | Travis Cactus |
+| `Rara` | Travis Cactus |
+| `Rara` | Travis Cactus |
 
 <sub>Top artists this month — `21 Savage` · `Drake` · `Baby Keem` · `Travis Scott` · `Lil Tecca`</sub>
 
