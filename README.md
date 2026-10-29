@@ -140,8 +140,8 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 |---|---|
 | `Rara` | Travis Cactus |
 | `Rara` | Travis Cactus |
-| `ELVIS` | Hightide |
 | `Rara` | Travis Cactus |
+| `ELVIS` | Hightide |
 | `Rara` | Travis Cactus |
 
 <sub>Top artists this month — `21 Savage` · `Drake` · `Baby Keem` · `Travis Scott` · `Lil Tecca`</sub>
