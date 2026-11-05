@@ -132,19 +132,19 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Umbrella (with 21 Savage & Young Nudy)** — Metro Boomin
+**Bank Account** — 21 Savage
 
 </div>
 
 | recent | artist |
 |---|---|
+| `Bank Account` | 21 Savage |
+| `All The Signs (feat. Teezo Touchdown)` | Don Toliver |
+| `Excavator` | Don Toliver |
 | `Umbrella (with 21 Savage & Young Nudy)` | Metro Boomin |
-| `Time Flies` | Rico Nasty |
-| `Rara` | Travis Cactus |
-| `Rara` | Travis Cactus |
-| `Rara` | Travis Cactus |
+| `T-Shirt` | Migos |
 
-<sub>Top artists this month — `21 Savage` · `Baby Keem` · `Travis Scott` · `Lil Tecca` · `Drake`</sub>
+<sub>Top artists this month — `21 Savage` · `Baby Keem` · `Travis Scott` · `Lil Tecca` · `Don Toliver`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
