@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Time Flies** — Rico Nasty
+**Umbrella (with 21 Savage & Young Nudy)** — Metro Boomin
 
 </div>
 
 | recent | artist |
 |---|---|
+| `Umbrella (with 21 Savage & Young Nudy)` | Metro Boomin |
 | `Time Flies` | Rico Nasty |
 | `Rara` | Travis Cactus |
 | `Rara` | Travis Cactus |
 | `Rara` | Travis Cactus |
-| `ELVIS` | Hightide |
 
 <sub>Top artists this month — `21 Savage` · `Baby Keem` · `Travis Scott` · `Lil Tecca` · `Drake`</sub>
 
