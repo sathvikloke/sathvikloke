@@ -144,7 +144,7 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 | `Big Shot (with Travis Scott)` | Kendrick Lamar |
 | `Is There Someone Else?` | The Weeknd |
 
-<sub>Top artists this month — `21 Savage` · `Baby Keem` · `Lil Tecca` · `Travis Scott` · `Future`</sub>
+<sub>Top artists this month — `21 Savage` · `Baby Keem` · `Travis Cactus` · `Future` · `Lil Tecca`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
