@@ -132,19 +132,19 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**16** — Baby Keem
+**TIL FURTHER NOTICE (feat. James Blake & 21 Savage)** — Travis Scott
 
 </div>
 
 | recent | artist |
 |---|---|
-| `16` | Baby Keem |
-| `Pick Up the Phone (feat. Quavo)` | Young Thug |
-| `first take` | Travis Scott |
-| `Big Shot (with Travis Scott)` | Kendrick Lamar |
-| `Is There Someone Else?` | The Weeknd |
+| `TIL FURTHER NOTICE (feat. James Blake & 21 Savage)` | Travis Scott |
+| `TIL FURTHER NOTICE (feat. James Blake & 21 Savage)` | Travis Scott |
+| `I KNOW ?` | Travis Scott |
+| `Having Our Way (feat. Drake)` | Migos |
+| `Walk It Talk It` | Migos |
 
-<sub>Top artists this month — `21 Savage` · `Baby Keem` · `Travis Cactus` · `Lil Yachty` · `Migos`</sub>
+<sub>Top artists this month — `21 Savage` · `Baby Keem` · `Travis Cactus` · `Migos` · `Travis Scott`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
