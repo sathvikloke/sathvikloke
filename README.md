@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**TIL FURTHER NOTICE (feat. James Blake & 21 Savage)** — Travis Scott
+**Do It Right** — Don Toliver
 
 </div>
 
 | recent | artist |
 |---|---|
-| `TIL FURTHER NOTICE (feat. James Blake & 21 Savage)` | Travis Scott |
-| `TIL FURTHER NOTICE (feat. James Blake & 21 Savage)` | Travis Scott |
-| `I KNOW ?` | Travis Scott |
-| `Having Our Way (feat. Drake)` | Migos |
-| `Walk It Talk It` | Migos |
+| `Do It Right` | Don Toliver |
+| `no sense` | Baby Keem |
+| `Poppin` | Yeat |
+| `fine china` | Baby Keem |
+| `Oh My Dis Side (Feat. Quavo)` | Travis Scott |
 
 <sub>Top artists this month — `21 Savage` · `Baby Keem` · `Travis Cactus` · `Migos` · `Travis Scott`</sub>
 
