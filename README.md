@@ -132,19 +132,19 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Do It Right** — Don Toliver
+**K-POP (feat. Bad Bunny & The Weeknd)** — Travis Scott
 
 </div>
 
 | recent | artist |
 |---|---|
-| `Do It Right` | Don Toliver |
-| `no sense` | Baby Keem |
-| `Poppin` | Yeat |
-| `fine china` | Baby Keem |
-| `Oh My Dis Side (Feat. Quavo)` | Travis Scott |
+| `K-POP (feat. Bad Bunny & The Weeknd)` | Travis Scott |
+| `DELRESTO (ECHOES) (feat. Beyoncé)` | Travis Scott |
+| `LOST FOREVER (feat. Westside Gunn)` | Travis Scott |
+| `SKITZO (feat. Young Thug)` | Travis Scott |
+| `3am` | Loe Shimmy |
 
-<sub>Top artists this month — `21 Savage` · `Baby Keem` · `Travis Cactus` · `Migos` · `Travis Scott`</sub>
+<sub>Top artists this month — `21 Savage` · `Baby Keem` · `Travis Scott` · `Travis Cactus` · `Drake`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
