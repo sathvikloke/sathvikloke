@@ -132,19 +132,19 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Bad Bad Bad (feat. Lil Baby)** — Young Thug
+**K-POP (feat. Bad Bunny & The Weeknd)** — Travis Scott
 
 </div>
 
 | recent | artist |
 |---|---|
+| `K-POP (feat. Bad Bunny & The Weeknd)` | Travis Scott |
+| `Slime You Out (feat. SZA)` | Drake |
+| `PARTY WITH THE BOYS` | Don Toliver |
+| `K-POP (feat. Bad Bunny & The Weeknd)` | Travis Scott |
 | `Bad Bad Bad (feat. Lil Baby)` | Young Thug |
-| `Surf (feat. Gunna)` | Young Thug |
-| `killstreaks (with Don Toliver & PinkPantheress)` | Baby Keem |
-| `hooligan` | Baby Keem |
-| `lost souls (with Brent Faiyaz)` | Baby Keem |
 
-<sub>Top artists this month — `21 Savage` · `Baby Keem` · `Travis Scott` · `Travis Cactus` · `Drake`</sub>
+<sub>Top artists this month — `21 Savage` · `Baby Keem` · `Travis Scott` · `Drake` · `Travis Cactus`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
