@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**DELRESTO (ECHOES) (feat. Beyoncé)** — Travis Scott
+**Surf (feat. Gunna)** — Young Thug
 
 </div>
 
 | recent | artist |
 |---|---|
+| `Surf (feat. Gunna)` | Young Thug |
+| `RATHER LIE (with The Weeknd)` | Playboi Carti |
+| `X Factor` | Lil Tecca |
+| `TELEKINESIS (feat. SZA & Future)` | Travis Scott |
 | `DELRESTO (ECHOES) (feat. Beyoncé)` | Travis Scott |
-| `16` | Baby Keem |
-| `Rockabye (feat. Sean Paul & Anne-Marie)` | Clean Bandit |
-| `16` | Baby Keem |
-| `K-POP (feat. Bad Bunny & The Weeknd)` | Travis Scott |
 
 <sub>Top artists this month — `Baby Keem` · `21 Savage` · `Travis Scott` · `Lil Tecca` · `Drake`</sub>
 
