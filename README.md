@@ -132,19 +132,19 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**K-POP (feat. Bad Bunny & The Weeknd)** — Travis Scott
+**X Factor** — Lil Tecca
 
 </div>
 
 | recent | artist |
 |---|---|
-| `K-POP (feat. Bad Bunny & The Weeknd)` | Travis Scott |
-| `Slime You Out (feat. SZA)` | Drake |
-| `PARTY WITH THE BOYS` | Don Toliver |
-| `K-POP (feat. Bad Bunny & The Weeknd)` | Travis Scott |
-| `Bad Bad Bad (feat. Lil Baby)` | Young Thug |
+| `X Factor` | Lil Tecca |
+| `X Factor` | Lil Tecca |
+| `Malibu’s Most Wanted` | Lil Tecca |
+| `One Night` | Lil Tecca |
+| `On Your Own` | Lil Tecca |
 
-<sub>Top artists this month — `21 Savage` · `Baby Keem` · `Travis Scott` · `Drake` · `Travis Cactus`</sub>
+<sub>Top artists this month — `Baby Keem` · `21 Savage` · `Travis Scott` · `Drake` · `Lil Tecca`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
