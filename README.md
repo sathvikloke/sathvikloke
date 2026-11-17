@@ -132,19 +132,19 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**X Factor** — Lil Tecca
+**DELRESTO (ECHOES) (feat. Beyoncé)** — Travis Scott
 
 </div>
 
 | recent | artist |
 |---|---|
-| `X Factor` | Lil Tecca |
-| `X Factor` | Lil Tecca |
-| `Malibu’s Most Wanted` | Lil Tecca |
-| `One Night` | Lil Tecca |
-| `On Your Own` | Lil Tecca |
+| `DELRESTO (ECHOES) (feat. Beyoncé)` | Travis Scott |
+| `16` | Baby Keem |
+| `Rockabye (feat. Sean Paul & Anne-Marie)` | Clean Bandit |
+| `16` | Baby Keem |
+| `K-POP (feat. Bad Bunny & The Weeknd)` | Travis Scott |
 
-<sub>Top artists this month — `Baby Keem` · `21 Savage` · `Travis Scott` · `Drake` · `Lil Tecca`</sub>
+<sub>Top artists this month — `Baby Keem` · `21 Savage` · `Travis Scott` · `Lil Tecca` · `Drake`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
