@@ -132,19 +132,19 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Surf (feat. Gunna)** — Young Thug
+**Rockabye (feat. Sean Paul & Anne-Marie)** — Clean Bandit
 
 </div>
 
 | recent | artist |
 |---|---|
+| `Rockabye (feat. Sean Paul & Anne-Marie)` | Clean Bandit |
+| `Lil Baby` | Young Thug |
 | `Surf (feat. Gunna)` | Young Thug |
 | `RATHER LIE (with The Weeknd)` | Playboi Carti |
 | `X Factor` | Lil Tecca |
-| `TELEKINESIS (feat. SZA & Future)` | Travis Scott |
-| `DELRESTO (ECHOES) (feat. Beyoncé)` | Travis Scott |
 
-<sub>Top artists this month — `Baby Keem` · `21 Savage` · `Travis Scott` · `Lil Tecca` · `Drake`</sub>
+<sub>Top artists this month — `Baby Keem` · `21 Savage` · `Travis Scott` · `Lil Tecca` · `Young Thug`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
