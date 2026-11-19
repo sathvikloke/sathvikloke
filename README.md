@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Outside** — SoFaygo
+**Walk It Talk It** — Migos
 
 </div>
 
 | recent | artist |
 |---|---|
-| `Outside` | SoFaygo |
-| `Spit Propane (feat. Gunna)` | Offset |
-| `can't leave without it` | 21 Savage |
-| `Lesbian (feat. Gunna & Young Thug)` | Metro Boomin |
-| `3 Headed Snake (feat. Young Thug)` | Gunna |
+| `Walk It Talk It` | Migos |
+| `FRANCHISE (feat. Young Thug & M.I.A.)` | Travis Scott |
+| `Poland` | Lil Yachty |
+| `Bubbly (with Drake & Travis Scott)` | Young Thug |
+| `Surf (feat. Gunna)` | Young Thug |
 
 <sub>Top artists this month — `Baby Keem` · `21 Savage` · `Travis Scott` · `Young Thug` · `Don Toliver`</sub>
 
