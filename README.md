@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**PARTY WITH THE BOYS** — Don Toliver
+**Outside** — SoFaygo
 
 </div>
 
 | recent | artist |
 |---|---|
-| `PARTY WITH THE BOYS` | Don Toliver |
-| `PARTY WITH THE BOYS` | Don Toliver |
-| `PARTY WITH THE BOYS` | Don Toliver |
-| `PARTY WITH THE BOYS` | Don Toliver |
-| `PARTY WITH THE BOYS` | Don Toliver |
+| `Outside` | SoFaygo |
+| `Spit Propane (feat. Gunna)` | Offset |
+| `can't leave without it` | 21 Savage |
+| `Lesbian (feat. Gunna & Young Thug)` | Metro Boomin |
+| `3 Headed Snake (feat. Young Thug)` | Gunna |
 
 <sub>Top artists this month — `Baby Keem` · `21 Savage` · `Travis Scott` · `Young Thug` · `Don Toliver`</sub>
 
