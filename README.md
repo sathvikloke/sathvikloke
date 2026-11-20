@@ -132,17 +132,17 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Walk It Talk It** — Migos
+**Sprinter** — Dave
 
 </div>
 
 | recent | artist |
 |---|---|
+| `Sprinter` | Dave |
+| `gynecologist` | Ken Carson |
 | `Walk It Talk It` | Migos |
 | `FRANCHISE (feat. Young Thug & M.I.A.)` | Travis Scott |
 | `Poland` | Lil Yachty |
-| `Bubbly (with Drake & Travis Scott)` | Young Thug |
-| `Surf (feat. Gunna)` | Young Thug |
 
 <sub>Top artists this month — `Baby Keem` · `21 Savage` · `Travis Scott` · `Young Thug` · `Don Toliver`</sub>
 
