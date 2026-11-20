@@ -132,19 +132,19 @@ Angels Grace Hospice / AccentCare     Volunteer · cello for patients in a memor
 
 ### `♫ last played`
 
-**Sprinter** — Dave
+**dothatshit!** — Playboi Carti
 
 </div>
 
 | recent | artist |
 |---|---|
-| `Sprinter` | Dave |
-| `gynecologist` | Ken Carson |
-| `Walk It Talk It` | Migos |
-| `FRANCHISE (feat. Young Thug & M.I.A.)` | Travis Scott |
-| `Poland` | Lil Yachty |
+| `dothatshit!` | Playboi Carti |
+| `dothatshit!` | Playboi Carti |
+| `dothatshit!` | Playboi Carti |
+| `dothatshit!` | Playboi Carti |
+| `dothatshit!` | Playboi Carti |
 
-<sub>Top artists this month — `Baby Keem` · `21 Savage` · `Travis Scott` · `Young Thug` · `Don Toliver`</sub>
+<sub>Top artists this month — `Baby Keem` · `Travis Scott` · `21 Savage` · `Young Thug` · `Don Toliver`</sub>
 
 <sub><i>Auto-updated from Last.fm. Scrobbled from Spotify, so it lags a track behind.</i></sub>
 
